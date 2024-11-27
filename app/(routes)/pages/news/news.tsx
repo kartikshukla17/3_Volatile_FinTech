@@ -1,69 +1,65 @@
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+"use client";
+import { Card, CardDescription, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem } from "@/components/ui/carousel";
+import React, { useState, useEffect } from "react";
+import article_data from "@/scraped_articles";
 
-const News = () => {
-  // Fake stock news data
-  const stockNews = [
-    {
-      title: "Tech Stocks Rally as Market Rebounds",
-      description: "Major tech companies see significant gains as investors regain confidence in the market.",
-      link: "https://example.com/news/tech-stocks-rally",
-    },
-    {
-      title: "Oil Prices Surge Amid Supply Concerns",
-      description: "Crude oil prices jump as OPEC announces production cuts, raising concerns about supply shortages.",
-      link: "https://example.com/news/oil-prices-surge",
-    },
-    {
-      title: "Banking Sector Faces Turbulence",
-      description: "Several banks report lower earnings, leading to a sell-off in financial stocks.",
-      link: "https://example.com/news/banking-sector-turbulence",
-    },
-    {
-      title: "Green Energy Stocks Gain Momentum",
-      description: "Investors are flocking to renewable energy stocks as governments push for sustainable initiatives.",
-      link: "https://example.com/news/green-energy-gain",
-    },
-  ];
+// Define the type for the article data
+interface Article {
+  title: string;
+  summary: string;
+  link: string;
+}
+
+// Function to truncate text
+const truncateText = (text: string, maxLength: number): string => {
+  if (!text) return "";
+  return text.length > maxLength ? `${text.slice(0, maxLength)}...` : text;
+};
+
+const News: React.FC = () => {
+  // Ensure article_data is typed as an array of Article objects
+  const articles: Article[] = Array.isArray(article_data) ? article_data : [];
+
+  // Fallback if data is empty or not an array
+  if (articles.length === 0) {
+    return <p>No articles available.</p>;
+  }
 
   return (
-    <div className="flex flex-col items-center justify-center p-4">
+    <div className="flex flex-col items-center justify-center p-4 w-full">
       <h1 className="text-2xl font-bold mb-4">Latest Stock News</h1>
-      <div className="flex items-center justify-center">
-      <Carousel orientation="horizontal">
-        <CarouselContent>
-          {stockNews.map((news, index) => (
-            <CarouselItem key={index}>
-              <Card>
-                <CardHeader>
-                  <CardTitle>{news.title}</CardTitle>
-                  <CardDescription>{news.description}</CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <p>Stay updated with the latest trends in the stock market.</p>
-                </CardContent>
-                <CardFooter>
-                  <a
-                    href={news.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-500 hover:underline"
-                  >
-                    Read More
-                  </a>
-                </CardFooter>
-              </Card>
-            </CarouselItem>
-          ))}
-        </CarouselContent>
-      </Carousel>
+      <div className="flex items-center justify-center w-full">
+        <Carousel
+          orientation="horizontal"
+          className="w-full max-w-lg overflow-x-scroll snap-x snap-mandatory scrollbar-hide"
+        >
+          <CarouselContent className="flex">
+            {articles.map((news, index) => (
+              <CarouselItem key={index} className="flex-none w-full snap-center p-4">
+                <Card className="w-full">
+                  <CardHeader>
+                    <CardTitle>{news.title}</CardTitle>
+                    <CardDescription></CardDescription>
+                  </CardHeader>
+                  <CardContent>
+                    <p>{truncateText(news.summary, 1000)}</p>
+                  </CardContent>
+                  <CardFooter>
+                    <a
+                      href={news.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-500 hover:underline"
+                    >
+                      Read More
+                    </a>
+                  </CardFooter>
+                </Card>
+              </CarouselItem>
+            ))}
+          </CarouselContent>
+        </Carousel>
       </div>
     </div>
   );
