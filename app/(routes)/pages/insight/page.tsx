@@ -40,11 +40,11 @@ const Insights = () => {
                         <DialogTitle>{item.Name}</DialogTitle>
                         <DialogDescription>
                           <div>
-                            Current Price: ${item.currentPrice.toFixed(2)}<br />
-                            Change: {item.changePercent}%<br />
-                            High: ${item.High}<br />
-                            Low: ${item.Low}<br />
-                            Volume: {item.Volume}
+                            <b>Current Price:</b> ${item.currentPrice.toFixed(2)}<br />
+                            <b>Change:</b> {item.changePercent}%<br />
+                            <b>High:</b> ${item.High}<br />
+                            <b>Low:</b> ${item.Low}<br />
+                            <b>Volume:</b> {item.Volume}
                           </div>
                         </DialogDescription>
                       </DialogHeader>
