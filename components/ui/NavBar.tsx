@@ -129,7 +129,7 @@ export function Navbar() {
 }
 
 function ThemeToggle() {
-  const [theme, setTheme] = React.useState<'light' | 'dark'>('light')
+  const [theme, setTheme] = React.useState<'light' | 'dark'>('dark')
 
   React.useEffect(() => {
     const root = window.document.documentElement

@@ -1,0 +1,4652 @@
+{
+    "title": "Stock Market: Stock Market Today | Stock Market Live News Update",
+    "description": "Share Market Today - Stock Market and Share Market Live Updates: Get all the latest share market and India stock market news and updates on Moneycontrol.com",
+    "og_image": "https://images.moneycontrol.com/mcnews/images/eng-left-mc-logo-600x60.png",
+    "navigation_links": [
+        [
+            "English",
+            "https://www.moneycontrol.com/"
+        ],
+        [
+            "Hindi",
+            "https://hindi.moneycontrol.com"
+        ],
+        [
+            "Gujarati",
+            "https://gujarati.moneycontrol.com/"
+        ],
+        [
+            "Specials",
+            "javascript:;"
+        ],
+        [
+            "Vodafone Idea INE669E01016, IDEA, 532822",
+            "https://www.moneycontrol.com/india/stockpricequote/telecommunication-service-provider/vodafoneidea/IC8"
+        ],
+        [
+            "Reliance INE002A01018, RELIANCE, 500325",
+            "https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI"
+        ],
+        [
+            "Ola Electric INE0LXG01040, OLAELEC, 544225",
+            "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-brakes/olaelectricmobility/OEM"
+        ],
+        [
+            "Adani Enterpris INE423A01024, ADANIENT, 512599",
+            "https://www.moneycontrol.com/india/stockpricequote/trading/adanienterprises/AE13"
+        ],
+        [
+            "NTPC INE733E01010, NTPC, 532555",
+            "https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/ntpc/NTP"
+        ],
+        [
+            "Hello, Login",
+            "javascript:;"
+        ],
+        [
+            "Hello, Login",
+            "javascript:;"
+        ],
+        [
+            "Log-in",
+            "javascript:;"
+        ],
+        [
+            "Sign-Up",
+            "javascript:;"
+        ],
+        [
+            "My Profile",
+            "javascript:;"
+        ],
+        [
+            "My Portfolio",
+            "javascript:;"
+        ],
+        [
+            "My Watchlist",
+            "javascript:;"
+        ],
+        [
+            "My Alerts",
+            "https://www.moneycontrol.com/my-alerts"
+        ],
+        [
+            "My Messages",
+            "javascript:;"
+        ],
+        [
+            "Price Alerts",
+            "javascript:;"
+        ],
+        [
+            "My Profile",
+            "https://www.moneycontrol.com/portfolio-management/user/update_profile"
+        ],
+        [
+            "My PRO",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "My Portfolio",
+            "https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool"
+        ],
+        [
+            "My Watchlist",
+            "https://www.moneycontrol.com/watchlist"
+        ],
+        [
+            "My Alerts",
+            "https://www.moneycontrol.com/my-alerts"
+        ],
+        [
+            "My Messages",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "Price Alerts",
+            "https://www.moneycontrol.com/alerts/manage-alerts.php"
+        ],
+        [
+            "Logout",
+            "https://www.moneycontrol.com/mcplus/portfolio/logout.php?ref=https://www.moneycontrol.com/mcplus/portfolio/loginportfolio.php"
+        ],
+        [
+            "Loans up to ₹15 LAKHS",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "Fixed Deposits",
+            "https://www.moneycontrol.com/fixed-deposit"
+        ],
+        [
+            "Credit CardsLifetime Free",
+            "https://www.moneycontrol.com/credit-cards"
+        ],
+        [
+            "Credit Score",
+            "https://www.moneycontrol.com/credit-score"
+        ],
+        [
+            "Chat with Us",
+            "javascript:;"
+        ],
+        [
+            "Go Ad-Free",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "My Alerts",
+            "https://www.moneycontrol.com/my-alerts"
+        ],
+        [
+            "Go PRO @₹99",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "PRO",
+            "javascript:;"
+        ],
+        [
+            "Markets",
+            "https://www.moneycontrol.com/stocksmarketsindia/"
+        ],
+        [
+            "HOME",
+            "https://www.moneycontrol.com/stocksmarketsindia/"
+        ],
+        [
+            "INDIAN INDICES",
+            "https://www.moneycontrol.com/markets/indian-indices/"
+        ],
+        [
+            "All Stats",
+            "https://www.moneycontrol.com/stocks/marketstats/index.php"
+        ],
+        [
+            "Top Gainers",
+            "https://www.moneycontrol.com/stocks/marketstats/nsegainer/index.php"
+        ],
+        [
+            "Top Losers",
+            "https://www.moneycontrol.com/stocks/marketstats/nseloser/index.php"
+        ],
+        [
+            "Only Buyers",
+            "https://www.moneycontrol.com/stocks/marketstats/onlybuyers.php"
+        ],
+        [
+            "Only Sellers",
+            "https://www.moneycontrol.com/stocks/marketstats/onlysellers.php"
+        ],
+        [
+            "52 Week High",
+            "https://www.moneycontrol.com/stocks/marketstats/nsehigh/index.php"
+        ],
+        [
+            "52 Week Low",
+            "https://www.moneycontrol.com/stocks/marketstats/nselow/index.php"
+        ],
+        [
+            "Price Shockers",
+            "https://www.moneycontrol.com/stocks/marketstats/nse_pshockers/index.php"
+        ],
+        [
+            "Volume Shockers",
+            "https://www.moneycontrol.com/stocks/marketstats/nse_vshockers/index.php"
+        ],
+        [
+            "Most Active Stocks",
+            "https://www.moneycontrol.com/stocks/marketstats/nsemact1/index.php"
+        ],
+        [
+            "GLOBAL MARKETS",
+            "https://www.moneycontrol.com/markets/global-indices/"
+        ],
+        [
+            "US MARKETS",
+            "https://www.moneycontrol.com/us-markets"
+        ],
+        [
+            "SEASONALITY ANALYSIS",
+            "https://www.moneycontrol.com/markets/seasonality-analysis/"
+        ],
+        [
+            "STOCK SCANNER",
+            "https://www.moneycontrol.com/stock-scanner/"
+        ],
+        [
+            "ECONOMIC INDICATORS",
+            "https://www.moneycontrol.com/economic-indicators/"
+        ],
+        [
+            "ECONOMIC CALENDAR",
+            "https://www.moneycontrol.com/economic-calendar"
+        ],
+        [
+            "Dashboard",
+            "https://www.moneycontrol.com/stocksmarketsindia/?dashboard=l2"
+        ],
+        [
+            "F&O",
+            "https://www.moneycontrol.com/markets/fno-market-snapshot"
+        ],
+        [
+            "FII & DII Activity",
+            "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+        ],
+        [
+            "Corporate Action",
+            "https://www.moneycontrol.com/markets/corporate-action/"
+        ],
+        [
+            "EARNINGS",
+            "https://www.moneycontrol.com/markets/earnings/"
+        ],
+        [
+            "STOCK DEALS",
+            "https://www.moneycontrol.com/markets/stock-deals/"
+        ],
+        [
+            "SECTOR ANALYSIS",
+            "https://www.moneycontrol.com/markets/sector-analysis"
+        ],
+        [
+            "PRE MARKET",
+            "https://www.moneycontrol.com/markets/premarket/"
+        ],
+        [
+            "Investment Advice",
+            "https://www.moneycontrol.com/markets/stock-ideas/"
+        ],
+        [
+            "Technicals",
+            "https://www.moneycontrol.com/markets/technicals/"
+        ],
+        [
+            "COMMODITY",
+            "https://www.moneycontrol.com/commodity/"
+        ],
+        [
+            "CURRENCY",
+            "https://www.moneycontrol.com/markets/currencies/"
+        ],
+        [
+            "CRYPTOCURRENCY",
+            "https://www.moneycontrol.com/crypto-market/market-movers/top-cryptos/inr"
+        ],
+        [
+            "TECHNICAL TRENDS",
+            "https://www.moneycontrol.com/markets/technical-trends/"
+        ],
+        [
+            "BIG SHARK PORTFOLIOS",
+            "https://www.moneycontrol.com/india-investors-portfolio/"
+        ],
+        [
+            "IPO",
+            "https://www.moneycontrol.com/ipo/"
+        ],
+        [
+            "BONDS",
+            "https://www.moneycontrol.com/bonds/"
+        ],
+        [
+            "WEBINAR",
+            "https://www.moneycontrol.com/webinar"
+        ],
+        [
+            "MC LEARN",
+            "https://www.moneycontrol.com/mc-learn/season-3/"
+        ],
+        [
+            "TRADERS CONCLAVE",
+            "https://www.moneycontrol.com/tradersconclave/"
+        ],
+        [
+            "INTERVIEW SERIES",
+            "https://www.moneycontrol.com/pro-interviews"
+        ],
+        [
+            "Cryptocurrency News",
+            "https://www.moneycontrol.com/cryptocurrency/"
+        ],
+        [
+            "Tools",
+            "https://www.moneycontrol.com/mccode/tools/"
+        ],
+        [
+            "News",
+            "https://www.moneycontrol.com/news/"
+        ],
+        [
+            "LATEST NEWS",
+            "https://www.moneycontrol.com/news/"
+        ],
+        [
+            "Assembly Elections",
+            "https://www.moneycontrol.com/elections/assembly-election/"
+        ],
+        [
+            "BUSINESS",
+            "https://www.moneycontrol.com/news/business/"
+        ],
+        [
+            "Economy",
+            "https://www.moneycontrol.com/news/business/economy/"
+        ],
+        [
+            "Companies",
+            "https://www.moneycontrol.com/news/business/companies/"
+        ],
+        [
+            "Mutual Funds",
+            "https://www.moneycontrol.com/news/business/mutual-funds/"
+        ],
+        [
+            "Personal Finance",
+            "https://www.moneycontrol.com/news/business/personal-finance/"
+        ],
+        [
+            "IPO",
+            "https://www.moneycontrol.com/news/business/ipo/"
+        ],
+        [
+            "Startup",
+            "https://www.moneycontrol.com/news/business/startup/"
+        ],
+        [
+            "Real Estate",
+            "https://www.moneycontrol.com/news/business/real-estate/"
+        ],
+        [
+            "Banking",
+            "https://www.moneycontrol.com/news/business/banks/"
+        ],
+        [
+            "India",
+            "https://www.moneycontrol.com/news/india/"
+        ],
+        [
+            "World",
+            "https://www.moneycontrol.com/news/world/"
+        ],
+        [
+            "Politics",
+            "https://www.moneycontrol.com/news/politics/"
+        ],
+        [
+            "MARKETS",
+            "https://www.moneycontrol.com/news/business/markets/"
+        ],
+        [
+            "Stocks",
+            "https://www.moneycontrol.com/news/business/stocks/"
+        ],
+        [
+            "Technical Analysis",
+            "https://www.moneycontrol.com/news/tags/technical-analysis.html"
+        ],
+        [
+            "Equity Research",
+            "https://www.moneycontrol.com/equity-research/"
+        ],
+        [
+            "Commodities",
+            "https://www.moneycontrol.com/news/business/commodities/"
+        ],
+        [
+            "Currency",
+            "https://www.moneycontrol.com/markets/currencies/"
+        ],
+        [
+            "Gold Rate",
+            "https://www.moneycontrol.com/news/gold-rates-today/"
+        ],
+        [
+            "Silver Rate",
+            "https://www.moneycontrol.com/news/silver-rates-today/"
+        ],
+        [
+            "AQI",
+            "https://www.moneycontrol.com/aqi/"
+        ],
+        [
+            "Trends",
+            "https://www.moneycontrol.com/news/trends/"
+        ],
+        [
+            "Opinion",
+            "https://www.moneycontrol.com/news/opinion/"
+        ],
+        [
+            "Explainers",
+            "https://www.moneycontrol.com/explainers/"
+        ],
+        [
+            "MC Buzz",
+            "https://www.moneycontrol.com/mc-buzz/"
+        ],
+        [
+            "MC Features",
+            "https://www.moneycontrol.com/features/"
+        ],
+        [
+            "MC Learn",
+            "https://www.moneycontrol.com/mc-learn/season-3/"
+        ],
+        [
+            "Personal Tech",
+            "https://www.moneycontrol.com/news/technology/"
+        ],
+        [
+            "Auto",
+            "https://www.moneycontrol.com/automobile/"
+        ],
+        [
+            "Fintech",
+            "https://www.moneycontrol.com/news/fintech/"
+        ],
+        [
+            "Podcast",
+            "https://www.moneycontrol.com/podcast/"
+        ],
+        [
+            "Photos",
+            "https://www.moneycontrol.com/news/photos/"
+        ],
+        [
+            "Videos",
+            "https://www.moneycontrol.com/news/videos/"
+        ],
+        [
+            "Web Stories",
+            "https://www.moneycontrol.com/web-stories/"
+        ],
+        [
+            "CRYPTOCURRENCY",
+            "https://www.moneycontrol.com/cryptocurrency/"
+        ],
+        [
+            "Entertainment",
+            "https://www.moneycontrol.com/entertainment/"
+        ],
+        [
+            "Sports",
+            "https://www.moneycontrol.com/sports/"
+        ],
+        [
+            "Lifestyle",
+            "https://www.moneycontrol.com/lifestyle/"
+        ],
+        [
+            "Health and Fitness",
+            "https://www.moneycontrol.com/health-and-fitness/"
+        ],
+        [
+            "Education",
+            "https://www.moneycontrol.com/education/"
+        ],
+        [
+            "Jobs",
+            "https://www.moneycontrol.com/jobs/"
+        ],
+        [
+            "Science",
+            "https://www.moneycontrol.com/science/"
+        ],
+        [
+            "Astro",
+            "https://www.moneycontrol.com/astrology/"
+        ],
+        [
+            "Religion",
+            "https://www.moneycontrol.com/religion/"
+        ],
+        [
+            "Travel",
+            "https://www.moneycontrol.com/news/trends/travel/"
+        ],
+        [
+            "Assembly Elections",
+            "https://www.moneycontrol.com/elections/assembly-election/"
+        ],
+        [
+            "Tech",
+            "https://www.moneycontrol.com/news/technology-startups"
+        ],
+        [
+            "India",
+            "https://www.moneycontrol.com/news/india/"
+        ],
+        [
+            "Portfolio",
+            "https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool"
+        ],
+        [
+            "Watchlist",
+            "https://www.moneycontrol.com/watchlist"
+        ],
+        [
+            "Commodities",
+            "https://www.moneycontrol.com/commodity/"
+        ],
+        [
+            "Mutual Funds",
+            "https://www.moneycontrol.com/mutualfundindia/"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/mutualfundindia/"
+        ],
+        [
+            "Find Fund",
+            "https://www.moneycontrol.com/mutual-funds/find-fund/"
+        ],
+        [
+            "Top Ranked Funds",
+            "https://www.moneycontrol.com/mutual-funds/best-funds/equity.html"
+        ],
+        [
+            "Performance Tracker",
+            "https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/large-cap-fund.html"
+        ],
+        [
+            "SIP Performance Tracker",
+            "https://www.moneycontrol.com/mutual-funds/performance-tracker/sip-returns/large-cap-fund.html"
+        ],
+        [
+            "ETF Performance",
+            "https://www.moneycontrol.com/mf/etf/"
+        ],
+        [
+            "NFO",
+            "https://www.moneycontrol.com/mutual-funds/new-fund-offers"
+        ],
+        [
+            "Top Performing Categories",
+            "https://www.moneycontrol.com/mutual-funds/performance-tracker/all-categories"
+        ],
+        [
+            "Learn",
+            "https://www.moneycontrol.com/mutualfundindia/learn/"
+        ],
+        [
+            "Returns Calculator",
+            "https://www.moneycontrol.com/mutual-funds/sip-planner"
+        ],
+        [
+            "Lumpsum SIP Balancer",
+            "https://www.moneycontrol.com/mutual-funds/tools/lumpsum-sip-balancer"
+        ],
+        [
+            "Delay Cost Calculator",
+            "https://www.moneycontrol.com/mutual-funds/tools/delay-cost-calculator"
+        ],
+        [
+            "MF FORUM",
+            "https://www.moneycontrol.com/mutualfundindia/mutual-fund-discussion-forum/"
+        ],
+        [
+            "Your MF Investment",
+            "https://www.moneycontrol.com/mutual-funds/portfolio-management/PORTFOLIO/returns"
+        ],
+        [
+            "MF Prices",
+            "https://www.moneycontrol.com/mutual-funds/portfolio-management/WATCHLIST/returns"
+        ],
+        [
+            "MC 30",
+            "https://www.moneycontrol.com/mutual-fund/mc-30"
+        ],
+        [
+            "Personal Finance",
+            "https://www.moneycontrol.com/personal-finance/"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/personal-finance/"
+        ],
+        [
+            "Investing",
+            "https://www.moneycontrol.com/personal-finance/investing/"
+        ],
+        [
+            "Insurance",
+            "https://www.moneycontrol.com/personal-finance/insurance/"
+        ],
+        [
+            "Banking",
+            "https://www.moneycontrol.com/personal-finance/banking/"
+        ],
+        [
+            "Financial Planning",
+            "https://www.moneycontrol.com/personal-finance/financialplanning/"
+        ],
+        [
+            "Property",
+            "https://www.moneycontrol.com/real-estate-property/"
+        ],
+        [
+            "Tools",
+            "https://www.moneycontrol.com/personal-finance/tools/"
+        ],
+        [
+            "Video",
+            "https://www.moneycontrol.com/personal-finance/videos/"
+        ],
+        [
+            "Ask Expert",
+            "https://www.moneycontrol.com/forum-topics/ask-the-expert/"
+        ],
+        [
+            "Explainer",
+            "https://www.moneycontrol.com/personal-finance/explainer/"
+        ],
+        [
+            "NPS",
+            "https://www.moneycontrol.com/personal-finance/nps-national-pension-scheme"
+        ],
+        [
+            "FDs @ 9.5% p.a.",
+            "https://www.moneycontrol.com/fixed-deposit"
+        ],
+        [
+            "Fixed Deposit Comparison",
+            "https://www.moneycontrol.com/fixed-deposit/fd-interest-rates/"
+        ],
+        [
+            "Fixed Deposit Interest Calculator",
+            "https://www.moneycontrol.com/fixed-income/calculator/fixed-deposit-calculator.html"
+        ],
+        [
+            "Corporate Deposits",
+            "https://www.moneycontrol.com/news/tags/company-fixed-deposits.html"
+        ],
+        [
+            "Income tax Filing Guide",
+            "https://www.moneycontrol.com/news/business/personal-finance/income-tax-filing/"
+        ],
+        [
+            "Income Tax Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/income-tax-calculator"
+        ],
+        [
+            "LTCG Tax on Property",
+            "https://www.moneycontrol.com/personal-finance/tools/capital-gain-tax-calculator.html"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/personal-finance/loans"
+        ],
+        [
+            "Loans up to ₹15 LAKHS",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "EMI Calculator",
+            "https://www.moneycontrol.com/personal-finance/loans/personal-loan/calculator"
+        ],
+        [
+            "Car Loan Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/carloan-emi-calculator.html"
+        ],
+        [
+            "Home Loan Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/emi-calculator.html"
+        ],
+        [
+            "Education Loan Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/education-loan-emi-calculator.html"
+        ],
+        [
+            "Credit Card Debit Payoff Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/credit-card-debt-payoff-calculator.html"
+        ],
+        [
+            "Provident Fund Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/provident-fund-calculator.html"
+        ],
+        [
+            "Assets Allocation Planning",
+            "https://www.moneycontrol.com/personal-finance/tools/asset-allocation-calculator.html"
+        ],
+        [
+            "Debt Reduction Planner",
+            "https://www.moneycontrol.com/personal-finance/tools/debt-reduction-plan-calculator.html"
+        ],
+        [
+            "Debt Evaluation Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/debt-evaluation-calculator.html"
+        ],
+        [
+            "Current Expense Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/current-expenses-calculator.html"
+        ],
+        [
+            "CREDIT CARDSLIFETIME FREE",
+            "https://www.moneycontrol.com/credit-cards"
+        ],
+        [
+            "CREDIT SCORE",
+            "https://www.moneycontrol.com/credit-score"
+        ],
+        [
+            "FINANCE TRACKER",
+            "https://www.moneycontrol.com/account-aggregator"
+        ],
+        [
+            "REAL ESTATE : TRENDS & ANALYTICS",
+            "https://www.moneycontrol.com/property-rates/mumbai"
+        ],
+        [
+            "MC 30",
+            "https://www.moneycontrol.com/mutual-fund/mc-30"
+        ],
+        [
+            "MONEYCONTROL - SECURENOW HEALTH INSURANCE RATINGS",
+            "https://www.moneycontrol.com/personal-finance/health-insurance-ratings"
+        ],
+        [
+            "GOLD PRICE TODAY",
+            "https://www.moneycontrol.com/news/gold-rates-today/?utm_source=mcpf&utm_medium=desktop&utm_campaign=L1PF"
+        ],
+        [
+            "Upcoming Chat",
+            "https://www.moneycontrol.com/news/mgmtinterviews/chats/detail_new.php?type=upcoming"
+        ],
+        [
+            "Previous Transcripts",
+            "https://www.moneycontrol.com/news/mgmtinterviews/chats/archives_new.php"
+        ],
+        [
+            "All Schedule",
+            "https://www.moneycontrol.com/news/mgmtinterviews/chats/detail_new.php"
+        ],
+        [
+            "Previous Transcript",
+            "https://www.moneycontrol.com/news/mgmtinterviews/chats/archives_new.php"
+        ],
+        [
+            "Forum",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "Homepage",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "Membership Rules",
+            "https://mmb.moneycontrol.com/membership-rules/"
+        ],
+        [
+            "Forum Topics",
+            "https://mmb.moneycontrol.com/forum-topics/"
+        ],
+        [
+            "Ask the Expert",
+            "https://mmb.moneycontrol.com/forum-topics/ask-the-expert/"
+        ],
+        [
+            "Top Boarders",
+            "https://mmb.moneycontrol.com/top-boarders/"
+        ],
+        [
+            "USER PROFILE",
+            "javascript:;"
+        ],
+        [
+            "Latest Threads",
+            "https://mmb.moneycontrol.com/forum-topics/latest-threads.html"
+        ],
+        [
+            "Stocks",
+            "https://mmb.moneycontrol.com/forum-topics/stocks-1.html"
+        ],
+        [
+            "Index",
+            "https://mmb.moneycontrol.com/forum-topics/market-view/index-246280.html"
+        ],
+        [
+            "Gold",
+            "https://mmb.moneycontrol.com/forum-topics/commodity/gold-509313.html"
+        ],
+        [
+            "Personal Finance",
+            "https://mmb.moneycontrol.com/forum-topics/personal-finance-5.html"
+        ],
+        [
+            "Just Posted",
+            "https://mmb.moneycontrol.com/forum-topics/market-view/just-posted-509249.html"
+        ],
+        [
+            "MF FORUM",
+            "https://www.moneycontrol.com/mutualfundindia/mutual-fund-discussion-forum/"
+        ],
+        [
+            "Latest Polls",
+            "https://mmb.moneycontrol.com/poll/"
+        ],
+        [
+            "Historical Polls",
+            "https://mmb.moneycontrol.com/poll/historical-polls/"
+        ],
+        [
+            "Market Sentiments",
+            "https://mmb.moneycontrol.com/poll/market-sentiments/"
+        ],
+        [
+            "FAQs",
+            "https://mmb.moneycontrol.com/faq/"
+        ],
+        [
+            "Code of Conduct",
+            "https://mmb.moneycontrol.com/code-of-conduct/"
+        ],
+        [
+            "Feedback",
+            "https://mmb.moneycontrol.com/forum-topics/feedback/about-mmb-160978.html"
+        ],
+        [
+            "Write to us",
+            "mailto:forum@moneycontrol.com"
+        ],
+        [
+            "Videos",
+            "https://www.moneycontrol.com/video-shows/"
+        ],
+        [
+            "Homepage",
+            "https://www.moneycontrol.com/video-shows/"
+        ],
+        [
+            "Video on Demand",
+            "https://www.moneycontrol.com/news/videos/"
+        ],
+        [
+            "Opening & Closing Bell",
+            "https://www.moneycontrol.com/shows/markets-with-moneycontrol/"
+        ],
+        [
+            "The Tenant",
+            "https://www.moneycontrol.com/shows/the-tenant/"
+        ],
+        [
+            "Drive Report",
+            "https://www.moneycontrol.com/shows/drive-report/"
+        ],
+        [
+            "Homepage",
+            "https://www.moneycontrol.com/podcast/"
+        ],
+        [
+            "Podcast on Demand",
+            "https://www.moneycontrol.com/news/tags/podcast.html"
+        ],
+        [
+            "The Week on Dalal Street",
+            "https://www.moneycontrol.com/news/podcast/the-week-on-dalal-street"
+        ],
+        [
+            "Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/market-minutes"
+        ],
+        [
+            "MC Special Podcast",
+            "https://www.moneycontrol.com/news/podcast/mc-special-podcast"
+        ],
+        [
+            "Simply Save",
+            "https://www.moneycontrol.com/news/podcast/simply-save"
+        ],
+        [
+            "Policy Talks",
+            "https://www.moneycontrol.com/news/podcast/policy-talks"
+        ],
+        [
+            "Hindi",
+            "https://hindi.moneycontrol.com/tv/"
+        ],
+        [
+            "Gujarati",
+            "https://gujarati.moneycontrol.com/tv/"
+        ],
+        [
+            "Invest Now",
+            "javascript:;"
+        ],
+        [
+            "Invest in top cryptocurrencies all over the world\nSee the top gainers, losers, invest and get updated what's happening in the crypto market\nInvest Now",
+            "https://www.moneycontrol.com/msite/mudrex"
+        ],
+        [
+            "Bharat option traders summit - 2024\nIndia's Largest Regional Retail Option Traders Summit. (BOTS) is a prestigious options trading event organized by Traders Gurukul. Held on the 2nd OR 3rd Sunday of every month, across top cities in India\nInvest Now",
+            "https://www.moneycontrol.com/bharat-option-traders-summit/"
+        ],
+        [
+            "\"Open Trading Account\" formerly know as TradeNow\nThis functionality will provide users with ease of access navigation and enable create a new revenue line by generating leads of potential customers for brokers in a more integrated manner.\nInvest Now",
+            "https://www.moneycontrol.com/open-demat-account-online?classic=true&script_id=INE202E01016&ex=NSE&site=web&asset_class=stock&utm_source=moneycontrol&utm_medium=webstockpage&utm_campaign=tradenow&utm_content=webbutton"
+        ],
+        [
+            "PRO",
+            "https://www.moneycontrol.com/pro-top-stories"
+        ],
+        [
+            "Global Markets",
+            "https://www.moneycontrol.com/mccode/globalmarkets/index.html"
+        ],
+        [
+            "Indian Indices",
+            "https://www.moneycontrol.com/markets/indian-indices/"
+        ],
+        [
+            "Economic Calendar",
+            "https://www.moneycontrol.com/economic-calendar"
+        ],
+        [
+            "IPO",
+            "https://www.moneycontrol.com/ipo/"
+        ],
+        [
+            "All Stats",
+            "https://www.moneycontrol.com/stocks/marketstats/index.php"
+        ],
+        [
+            "Technical Trends",
+            "https://www.moneycontrol.com/markets/technical-trends/"
+        ],
+        [
+            "Earnings",
+            "https://www.moneycontrol.com/markets/earnings/"
+        ],
+        [
+            "F&O",
+            "https://www.moneycontrol.com/markets/fno-market-snapshot"
+        ],
+        [
+            "Big Shark Portfolios",
+            "https://www.moneycontrol.com/india-investors-portfolio/"
+        ],
+        [
+            "US Markets",
+            "https://www.moneycontrol.com/us-markets"
+        ],
+        [
+            "Seasonality Analysis",
+            "https://www.moneycontrol.com/markets/seasonality-analysis/"
+        ],
+        [
+            "Stock Advisory\nby SEBI's RIA",
+            "https://www.moneycontrol.com/subscription"
+        ],
+        [
+            "Get App",
+            "https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3Dgoogle_play%26utm_medium%3Dorganic%26utm_campaign%3Dgetappbanner_eng"
+        ],
+        [
+            "OpenIn App",
+            "https://wz7ux.app.goo.gl/?link=https://www.moneycontrol.com/&utm_source=MC_OpeninApp&utm_medium=MC_WAP&utm_campaign=OpeninApp_Button&apn=com.divum.MoneyControl&ibi=com.moneycontrol.mc&isi=408654600"
+        ],
+        [
+            "Credit Cards",
+            "https://moneycontrol.com/credit-cards"
+        ],
+        [
+            "Enjoy seamless experience on APP10x faster & More Feature",
+            "https://www.moneycontrol.com/"
+        ],
+        [
+            "Get App",
+            "https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3Dgoogle_play%26utm_medium%3Dorganic%26utm_campaign%3Dgetappbanner_eng"
+        ],
+        [
+            "Ad-Free @₹99",
+            "javascript:;"
+        ],
+        [
+            "Open App",
+            "https://wz7ux.app.goo.gl/?link=https://www.moneycontrol.com/&utm_source=MC_OpeninApp&utm_medium=MC_WAP&utm_campaign=OpeninApp_Button&apn=com.divum.MoneyControl&ibi=com.moneycontrol.mc&isi=408654600"
+        ],
+        [
+            "Vodafone Idea INE669E01016, IDEA, 532822",
+            "https://www.moneycontrol.com/india/stockpricequote/telecommunication-service-provider/vodafoneidea/IC8"
+        ],
+        [
+            "Reliance INE002A01018, RELIANCE, 500325",
+            "https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI"
+        ],
+        [
+            "Ola Electric INE0LXG01040, OLAELEC, 544225",
+            "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-brakes/olaelectricmobility/OEM"
+        ],
+        [
+            "Adani Enterpris INE423A01024, ADANIENT, 512599",
+            "https://www.moneycontrol.com/india/stockpricequote/trading/adanienterprises/AE13"
+        ],
+        [
+            "NTPC INE733E01010, NTPC, 532555",
+            "https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/ntpc/NTP"
+        ],
+        [
+            "Auriferous Aqua Farma , 519363",
+            "javascript:;"
+        ],
+        [
+            "Login",
+            "https://m.moneycontrol.com/login.php"
+        ],
+        [
+            "Sign-Up",
+            "https://m.moneycontrol.com/mcreg.php"
+        ],
+        [
+            "English",
+            "javascript:;"
+        ],
+        [
+            "हिंदी",
+            "https://hindi.moneycontrol.com/"
+        ],
+        [
+            "ગુજરાતી",
+            "https://gujarati.moneycontrol.com/"
+        ],
+        [
+            "MC Login User Name",
+            "javascript:;"
+        ],
+        [
+            "My Profile",
+            "https://www.moneycontrol.com/portfolio-management/user/update_profile"
+        ],
+        [
+            "My PRO",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "My Portfolio",
+            "https://m.moneycontrol.com/portfolio.php?type=today"
+        ],
+        [
+            "My Watchlist",
+            "https://www.moneycontrol.com/watchlist"
+        ],
+        [
+            "Loans  @ 12%Up to  ₹ 15 Lakhs!",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "Fixed Deposits",
+            "https://www.moneycontrol.com/fixed-deposit"
+        ],
+        [
+            "My Alerts",
+            "https://www.moneycontrol.com/my-alerts"
+        ],
+        [
+            "My Messages",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "Logout",
+            "https://m.moneycontrol.com/logout.php?red_url=index.html"
+        ],
+        [
+            "English",
+            "javascript:;"
+        ],
+        [
+            "हिंदी",
+            "https://hindi.moneycontrol.com/"
+        ],
+        [
+            "ગુજરાતી",
+            "https://gujarati.moneycontrol.com/"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/"
+        ],
+        [
+            "My Feed",
+            "https://www.moneycontrol.com/my-stock-feed?utm_source=mc_header&utm_medium=wap&utm_campaign=my_feed_cta"
+        ],
+        [
+            "Zero Ads",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Get Premium Content",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Daily Stock Calls",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Stock Insights",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Daily Newsletters",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Stock Forecasts",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Technical Indicators",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Go Pro @₹99",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "Moneycontrol PRO",
+            "javascript:;"
+        ],
+        [
+            "Top Stories",
+            "https://www.moneycontrol.com/pro-top-stories"
+        ],
+        [
+            "Alpha Folios",
+            "https://www.moneycontrol.com/pro-alpha-portfolio/"
+        ],
+        [
+            "Financial Times",
+            "https://www.moneycontrol.com/pro-financial-times"
+        ],
+        [
+            "Opinion",
+            "https://www.moneycontrol.com/pro-opinion"
+        ],
+        [
+            "Learn",
+            "https://www.moneycontrol.com/pro-markets-learn"
+        ],
+        [
+            "GuruSpeak",
+            "https://www.moneycontrol.com/pro-market-guru"
+        ],
+        [
+            "Webinar",
+            "https://www.moneycontrol.com/webinar"
+        ],
+        [
+            "Interview Series",
+            "https://www.moneycontrol.com/pro-interviews"
+        ],
+        [
+            "Business In The Week Ahead",
+            "https://www.moneycontrol.com/pro-business-in-week-ahead"
+        ],
+        [
+            "Research",
+            "https://www.moneycontrol.com/pro-market-research"
+        ],
+        [
+            "Technical Picks",
+            "https://www.moneycontrol.com/technical-picks/"
+        ],
+        [
+            "Personal Finance",
+            "https://www.moneycontrol.com/pro-personalfinance"
+        ],
+        [
+            "My Subscription",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "My Offers",
+            "https://www.moneycontrol.com/pro-offers"
+        ],
+        [
+            "Credit Cards\nLifetime Free",
+            "https://www.moneycontrol.com/credit-cards"
+        ],
+        [
+            "INSTANT ₹15 LAKHS\t\t\t\t\t\t\t\t\t\t\t\tAPPLY NOW",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "APPLY NOW",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "Credit Score",
+            "https://www.moneycontrol.com/credit-score"
+        ],
+        [
+            "Finance Tracker",
+            "https://www.moneycontrol.com/account-aggregator"
+        ],
+        [
+            "Fixed Deposits",
+            "https://www.moneycontrol.com/fixed-deposit"
+        ],
+        [
+            "Markets",
+            "javascript:;"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/stocksmarketsindia/"
+        ],
+        [
+            "FII & DII Activity",
+            "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+        ],
+        [
+            "Corporate Action",
+            "https://www.moneycontrol.com/markets/corporate-action/"
+        ],
+        [
+            "Investment Advice",
+            "https://m.moneycontrol.com/markets/stock-ideas/"
+        ],
+        [
+            "Earnings",
+            "https://www.moneycontrol.com/markets/earnings/"
+        ],
+        [
+            "Technical Trends",
+            "https://www.moneycontrol.com/markets/technical-trends/"
+        ],
+        [
+            "Webinar",
+            "https://m.moneycontrol.com/webinar"
+        ],
+        [
+            "Bonds",
+            "https://m.moneycontrol.com/bonds/"
+        ],
+        [
+            "MC Learn",
+            "https://m.moneycontrol.com/mc-learn/season-3/"
+        ],
+        [
+            "Traders Conclave",
+            "https://m.moneycontrol.com/tradersconclave/"
+        ],
+        [
+            "Interview Series",
+            "https://www.moneycontrol.com/pro-interviews"
+        ],
+        [
+            "Pre Market",
+            "https://www.moneycontrol.com/markets/premarket/"
+        ],
+        [
+            "Stock Scanner",
+            "https://www.moneycontrol.com/stock-scanner/"
+        ],
+        [
+            "Sector Analysis",
+            "https://www.moneycontrol.com/markets/sector-analysis"
+        ],
+        [
+            "Seasonality Analysis",
+            "https://www.moneycontrol.com/markets/seasonality-analysis/"
+        ],
+        [
+            "Assembly Elections",
+            "https://www.moneycontrol.com/elections/assembly-election/"
+        ],
+        [
+            "Web Stories",
+            "https://www.moneycontrol.com/web-stories/"
+        ],
+        [
+            "Tax Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/income-tax-calculator"
+        ],
+        [
+            "Forum",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "Gold Rate",
+            "https://www.moneycontrol.com/news/gold-rates-today/"
+        ],
+        [
+            "Silver Rate",
+            "https://www.moneycontrol.com/news/silver-rates-today/"
+        ],
+        [
+            "Storyboard18",
+            "https://www.moneycontrol.com/storyboard18/"
+        ],
+        [
+            "IPO",
+            "https://www.moneycontrol.com/ipo/"
+        ],
+        [
+            "Economic Indicators",
+            "https://www.moneycontrol.com/economic-indicators/"
+        ],
+        [
+            "Economic Calendar",
+            "https://www.moneycontrol.com/economic-calendar"
+        ],
+        [
+            "Global Markets",
+            "https://www.moneycontrol.com/markets/global-indices/"
+        ],
+        [
+            "US Markets",
+            "https://www.moneycontrol.com/us-markets"
+        ],
+        [
+            "Indian Indices",
+            "https://www.moneycontrol.com/markets/indian-indices/?classic=true"
+        ],
+        [
+            "News",
+            "javascript:;"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/news/"
+        ],
+        [
+            "Tech/Startups",
+            "https://www.moneycontrol.com/news/technology-startups"
+        ],
+        [
+            "Auto",
+            "https://www.moneycontrol.com/automobile/"
+        ],
+        [
+            "Research",
+            "https://www.moneycontrol.com/equity-research/"
+        ],
+        [
+            "Opinion",
+            "https://www.moneycontrol.com/news/opinion/"
+        ],
+        [
+            "Politics",
+            "https://www.moneycontrol.com/news/politics/"
+        ],
+        [
+            "Personal Finance",
+            "https://www.moneycontrol.com/news/business/personal-finance/"
+        ],
+        [
+            "EPF Guide",
+            "https://www.moneycontrol.com/news/personal-finance/epfo/"
+        ],
+        [
+            "Real Estate",
+            "https://www.moneycontrol.com/real-estate-property/"
+        ],
+        [
+            "Big Shark Portfolios",
+            "https://www.moneycontrol.com/india-investors-portfolio/"
+        ],
+        [
+            "Portfolio",
+            "https://m.moneycontrol.com/portfolio.php?type=today"
+        ],
+        [
+            "Watchlist",
+            "https://www.moneycontrol.com/watchlist"
+        ],
+        [
+            "Personal Finance",
+            "javascript:;"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/personal-finance/"
+        ],
+        [
+            "Loans",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "Fixed Deposit Comparison",
+            "https://www.moneycontrol.com/fixed-deposit/fd-interest-rates/"
+        ],
+        [
+            "Fixed Deposit Interest Calculator",
+            "https://www.moneycontrol.com/fixed-income/calculator/fixed-deposit-calculator.html"
+        ],
+        [
+            "Moneycontrol - SecureNow Health Insurance ratings",
+            "https://www.moneycontrol.com/personal-finance/health-insurance-ratings"
+        ],
+        [
+            "Mutual Funds",
+            "javascript:;"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/mutualfundindia/"
+        ],
+        [
+            "Performance Tracker",
+            "https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/large-cap-fund.html"
+        ],
+        [
+            "Top ranked funds",
+            "https://www.moneycontrol.com/mutual-funds/best-funds/equity.html"
+        ],
+        [
+            "My Portfolio",
+            "https://m.moneycontrol.com/portfolio.php?type=today"
+        ],
+        [
+            "Top performing Categories",
+            "https://www.moneycontrol.com/mutual-funds/performance-tracker/all-categories?order=default&dur=1y"
+        ],
+        [
+            "Forum",
+            "https://www.moneycontrol.com/mutualfundindia/mutual-fund-discussion-forum"
+        ],
+        [
+            "MC 30",
+            "https://www.moneycontrol.com/mutual-fund/mc-30"
+        ],
+        [
+            "NFO",
+            "https://www.moneycontrol.com/mutual-funds/new-fund-offers"
+        ],
+        [
+            "MF Simplified",
+            "https://www.moneycontrol.com/msite/mc-explains-mutual-fund-simplified"
+        ],
+        [
+            "Commodities",
+            "javascript:;"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/commodity/"
+        ],
+        [
+            "Gold Rate",
+            "https://www.moneycontrol.com/news/gold-rates-today/"
+        ],
+        [
+            "Silver Rate",
+            "https://www.moneycontrol.com/news/silver-rates-today/"
+        ],
+        [
+            "Currencies",
+            "https://www.moneycontrol.com/markets/currencies/"
+        ],
+        [
+            "Cryptocurrency",
+            "https://www.moneycontrol.com/crypto-market/market-movers/top-cryptos/inr"
+        ],
+        [
+            "Media",
+            "javascript:;"
+        ],
+        [
+            "Live TV & Shows",
+            "https://m.moneycontrol.com/live_tv.php"
+        ],
+        [
+            "Video",
+            "https://www.moneycontrol.com/video-shows/?classic=true"
+        ],
+        [
+            "Podcast",
+            "https://www.moneycontrol.com/podcast/?classic=true"
+        ],
+        [
+            "Photos",
+            "https://www.moneycontrol.com/news/photos/"
+        ],
+        [
+            "Invest Now",
+            "javascript:;"
+        ],
+        [
+            "Trade like Experts",
+            "https://www.moneycontrol.com/msite/gapup-club"
+        ],
+        [
+            "Specials\t\t\t\t\t\t\t\t\t\t\t\t Trending",
+            "#accord_last_div"
+        ],
+        [
+            "Global AI Conclave",
+            "https://www.moneycontrol.com/msite/global-ai-conclave/bangalore"
+        ],
+        [
+            "Share.Market",
+            "https://www.moneycontrol.com/msite/intelligent_investing_simplified_by_share.market/?v=ture"
+        ],
+        [
+            "Financial Freedom",
+            "https://www.moneycontrol.com/msite/icici-direct-path-to-financial-freedom"
+        ],
+        [
+            "Research Picks",
+            "https://www.moneycontrol.com/msite/icici-direct-research-picks"
+        ],
+        [
+            "Policybazaar",
+            "https://www.moneycontrol.com/msite/policybazaar-insurance-show#header"
+        ],
+        [
+            "MF Summit",
+            "https://www.moneycontrol.com/msite/mutual-fund-summit-2024?utm_source=moneycontrol&utm_medium=trending"
+        ],
+        [
+            "Startup Conclave",
+            "https://www.moneycontrol.com/msite/sahi-hai-pathshala"
+        ],
+        [
+            "IFBA Season 3",
+            "https://www.moneycontrol.com/msite/indian-family-business-awards?utm_source=moneycontrol&utm_medium=specials"
+        ],
+        [
+            "Pharma Industry Conclave",
+            "https://www.moneycontrol.com/msite/pharma-industry-conclave"
+        ],
+        [
+            "Unlocking opportunities in Metal and Mining",
+            "https://www.moneycontrol.com/msite/unlocking-opportunities-in-metal-mining"
+        ],
+        [
+            "Advanced Technical Charts",
+            "https://www.moneycontrol.com/msite/advanced-technical-chart/?utm_source=moneycontrol&utm_medium=wap&utm_campaign=specials"
+        ],
+        [
+            "International",
+            "https://www.moneycontrol.com/news/international/"
+        ],
+        [
+            "Go  pro  @₹99",
+            "https://www.moneycontrol.com/promos/pro.php"
+        ],
+        [
+            "My Alerts",
+            "https://www.moneycontrol.com/my-alerts"
+        ],
+        [
+            "Home",
+            "https://www.moneycontrol.com/"
+        ],
+        [
+            "Markets",
+            "https://www.moneycontrol.com/stocksmarketsindia/"
+        ],
+        [
+            "News",
+            "https://www.moneycontrol.com/news/"
+        ],
+        [
+            "Assembly Elections",
+            "https://www.moneycontrol.com/elections/assembly-election/"
+        ],
+        [
+            "Tech",
+            "https://www.moneycontrol.com/news/technology-startups"
+        ],
+        [
+            "India",
+            "https://www.moneycontrol.com/news/india/"
+        ],
+        [
+            "Portfolio",
+            "https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool"
+        ],
+        [
+            "Instant ₹15 Lakhs!",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "Watchlist",
+            "https://www.moneycontrol.com/watchlist"
+        ],
+        [
+            "Commodities",
+            "https://www.moneycontrol.com/commodity/"
+        ],
+        [
+            "Mutual Funds",
+            "https://www.moneycontrol.com/mutualfundindia/"
+        ],
+        [
+            "Personal Finance",
+            "https://www.moneycontrol.com/personal-finance/"
+        ],
+        [
+            "Forum",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "Videos",
+            "https://www.moneycontrol.com/video-shows/"
+        ],
+        [
+            "Invest Now",
+            "javascript:;"
+        ],
+        [
+            "PRO",
+            "https://www.moneycontrol.com/pro-top-stories"
+        ],
+        [
+            "Invest in Cryptoassets\nPowered by",
+            "https://www.moneycontrol.com/msite/mudrex"
+        ],
+        [
+            "BOTS Summit (FY 24-25)\nPowered by",
+            "https://www.moneycontrol.com/bharat-option-traders-summit/"
+        ],
+        [
+            "Open Trading Account\nPowered by",
+            "https://www.moneycontrol.com/open-demat-account-online?classic=true&script_id=INE202E01016&ex=NSE&site=web&asset_class=stock&utm_source=moneycontrol&utm_medium=webstockpage&utm_campaign=tradenow&utm_content=webbutton"
+        ],
+        [
+            "Moneycontrol",
+            "https://www.moneycontrol.com/"
+        ],
+        [
+            "MARKETS",
+            "https://www.moneycontrol.com/stocksmarketsindia/"
+        ],
+        [
+            "Join Us On",
+            "https://t.me/moneycontrolcom"
+        ],
+        [
+            "LiveTV",
+            "https://m.moneycontrol.com/live_tv.php"
+        ],
+        [
+            "Gold Rate",
+            "https://www.moneycontrol.com/news/gold-rates-today/"
+        ],
+        [
+            "Nifty 50\n\n24274.90\n+80.40 (+0.33%)",
+            "https://www.moneycontrol.com/indian-indices/nifty-50-9.html"
+        ],
+        [
+            "Sensex\n\n80234.08\n+230.02 (+0.29%)",
+            "https://www.moneycontrol.com/indian-indices/sensex-4.html"
+        ],
+        [
+            "Live US Markets",
+            "https://www.moneycontrol.com/us-markets"
+        ],
+        [
+            "Top News",
+            "javascript:void(0);"
+        ],
+        [
+            "Buzzing Stocks",
+            "javascript:void(0);"
+        ],
+        [
+            "Latest News",
+            "javascript:void(0);"
+        ],
+        [
+            "Hindi",
+            "javascript:void(0);"
+        ],
+        [
+            "Podcast",
+            "javascript:void(0);"
+        ],
+        [
+            "Live US Markets",
+            "https://www.moneycontrol.com/us-markets"
+        ],
+        [
+            "Bookmark",
+            "javascript:;"
+        ],
+        [
+            "Taking Stock: Sensex, Nifty edge higher amid volatile trading; Adani Group stocks lead recovery",
+            "https://www.moneycontrol.com/news/business/earnings/taking-stock-sensex-nifty-edge-higher-amid-volatile-trading-adani-group-stocks-lead-recovery-12877829.html"
+        ],
+        [
+            "Taking Stock: Sensex, Nifty edge higher amid volatile trading; Adani Group stocks lead recovery",
+            "https://www.moneycontrol.com/news/business/earnings/taking-stock-sensex-nifty-edge-higher-amid-volatile-trading-adani-group-stocks-lead-recovery-12877829.html"
+        ],
+        [
+            "Ola Electric shares zoom 9% on new Gig, S1 Z range of scooters; Citi gives 'buy' rating",
+            "https://www.moneycontrol.com/news/business/markets/ola-electric-shares-zoom-9-on-gig-and-s1-z-range-scooters-citi-initiates-with-buy-12877218.html"
+        ],
+        [
+            "Ola Electric shares zoom 9% on new Gig, S1 Z range of scooters; Citi gives 'buy' rating",
+            "https://www.moneycontrol.com/news/business/markets/ola-electric-shares-zoom-9-on-gig-and-s1-z-range-scooters-citi-initiates-with-buy-12877218.html"
+        ],
+        [
+            "Technical View: Nifty closes above 24,250 in rangebound session, may move toward 24,550",
+            "https://www.moneycontrol.com/news/business/technicals/technical-view-nifty-closes-above-24250-in-rangebound-session-may-move-toward-24550-12877796.html"
+        ],
+        [
+            "Defence, shipbuilding stocks surge up to 5% as JPMorgan's bullish call revives investor interest",
+            "https://www.moneycontrol.com/news/business/markets/defence-shipbuilding-stocks-surge-up-to-5-as-jpmorgans-bullish-call-revives-investor-interest-12877227.html"
+        ],
+        [
+            "Mid-, small-cap indices outperform benchmarks by rising up to 5% in 4 sessions; what lies ahead",
+            "https://www.moneycontrol.com/news/business/markets/mid-small-cap-indices-outperform-benchmarks-by-rising-up-to-5-in-4-sessions-what-lies-ahead-12877627.html"
+        ],
+        [
+            "The trading slowdown: Cash & F&O turnover hit multi-month lows",
+            "https://www.moneycontrol.com/news/business/markets/cash-market-average-turnover-hits-one-year-low-fo-turnover-at-seven-month-low-12877165.html"
+        ],
+        [
+            "Nifty 50 targets for FY25: Bull, Bear, and Base case scenarios",
+            "https://www.moneycontrol.com/news/business/markets/nifty-50-targets-for-fy25-bull-bear-and-base-case-scenarios-12877619.html"
+        ],
+        [
+            "Key Adani stocks hit upper circuit, jump 10-20% as group refutes bribery allegations against founder Gautam Adani",
+            "https://www.moneycontrol.com/news/business/markets/adani-stocks-rise-as-group-claims-founder-gautam-adani-not-involved-in-bribery-charges-shares-jump-up-to-7-12877450.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/news/business/markets"
+        ],
+        [
+            "Bookmark",
+            "javascript:;"
+        ],
+        [
+            "Mid-, small-cap indices outperform benchmarks by rising up to 5% in 4 sessions; what lies ahead",
+            "https://www.moneycontrol.com/news/business/markets/mid-small-cap-indices-outperform-benchmarks-by-rising-up-to-5-in-4-sessions-what-lies-ahead-12877627.html"
+        ],
+        [
+            "Mid-, small-cap indices outperform benchmarks by rising up to 5% in 4 sessions; what lies ahead",
+            "https://www.moneycontrol.com/news/business/markets/mid-small-cap-indices-outperform-benchmarks-by-rising-up-to-5-in-4-sessions-what-lies-ahead-12877627.html"
+        ],
+        [
+            "Vodafone Idea stock rises 6%, extends rally amid buzz of bank guarantee waiver",
+            "https://www.moneycontrol.com/news/business/markets/vodafone-idea-stock-rises-6-extends-rally-amid-buzz-of-bank-guarantee-waiver-12877618.html"
+        ],
+        [
+            "Vodafone Idea stock rises 6%, extends rally amid buzz of bank guarantee waiver",
+            "https://www.moneycontrol.com/news/business/markets/vodafone-idea-stock-rises-6-extends-rally-amid-buzz-of-bank-guarantee-waiver-12877618.html"
+        ],
+        [
+            "TARC surges 5% after it sold 50% of project TARC Ishva amounting to Rs 1,350 crore",
+            "https://www.moneycontrol.com/news/business/markets/tarc-surges-5-after-it-sold-50-of-project-tarc-ishva-amounting-to-rs-1350-crore-12877592.html"
+        ],
+        [
+            "Why is Pudumjee Industries down 10% in a flattish market?",
+            "https://www.moneycontrol.com/news/business/markets/why-is-pudumjee-industries-down-10-in-a-flattish-market-12877457.html"
+        ],
+        [
+            "Netweb Technologies jumps 8%, hits fresh all-time high amid heavy volumes",
+            "https://www.moneycontrol.com/news/business/markets/netweb-technologies-jump-8-hits-fresh-all-time-high-amid-heavy-volumes-12877254.html"
+        ],
+        [
+            "Talbros Automotive skyrockets 15% after bagging Rs 475 crore orders",
+            "https://www.moneycontrol.com/news/business/markets/talbros-automotive-skyrockets-15-after-bagging-rs-475-crore-orders-12877298.html"
+        ],
+        [
+            "NTPC Green Energy shares settle 12% higher on debut trade",
+            "https://www.moneycontrol.com/news/business/markets/ntpc-green-energy-shares-hit-10-upper-circuit-after-muted-listing-12877260.html"
+        ],
+        [
+            "CG Power shares rise 3% after arm bags order from Chittaranjan Locomotive Works",
+            "https://www.moneycontrol.com/news/business/markets/cg-power-shares-rise-3-after-arm-bags-order-from-chittaranjan-locomotive-works-12877238.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/news/stocksinnews-142.html"
+        ],
+        [
+            "Bookmark",
+            "javascript:;"
+        ],
+        [
+            "Adanis Not Named in US Bribery, Obstruction Charges, Says Mukul Rohatgi | N18G",
+            "https://www.moneycontrol.com/news/videos/business/markets/adanis-not-named-in-us-bribery-obstruction-charges-says-mukul-rohatgi-n18g-12878119.html"
+        ],
+        [
+            "Adanis Not Named in US Bribery, Obstruction Charges, Says Mukul Rohatgi | N18G",
+            "https://www.moneycontrol.com/news/videos/business/markets/adanis-not-named-in-us-bribery-obstruction-charges-says-mukul-rohatgi-n18g-12878119.html"
+        ],
+        [
+            "DIIs net buy shares worth Rs 1,302 crore, FIIs net buy Rs 7.8-crore shares",
+            "https://www.moneycontrol.com/news/business/markets/diis-net-buy-shares-worth-rs-1302-crore-fiis-net-buy-rs-7-78-crore-shares-12877983.html"
+        ],
+        [
+            "DIIs net buy shares worth Rs 1,302 crore, FIIs net buy Rs 7.8-crore shares",
+            "https://www.moneycontrol.com/news/business/markets/diis-net-buy-shares-worth-rs-1302-crore-fiis-net-buy-rs-7-78-crore-shares-12877983.html"
+        ],
+        [
+            "Sonata Software bags 'multi-million dollar' modernisation deal in Australia",
+            "https://www.moneycontrol.com/news/business/markets/sonata-software-bags-multi-million-dollar-modernisation-deal-in-australia-12877979.html"
+        ],
+        [
+            "Gen AI, Quantum Computing set to create over 10 lakh jobs by 2030, says report",
+            "https://www.moneycontrol.com/technology/gen-ai-quantum-computing-set-to-create-over-10-lakh-jobs-by-2030-says-report-article-12877918.html"
+        ],
+        [
+            "Godrej Properties seeks to raise up to Rs 4,000 crore via QIP, indicative price at Rs 2,595 per share: CNBC-TV18",
+            "https://www.moneycontrol.com/news/business/markets/godrej-properties-announces-qip-at-floor-price-of-rs-2727-44-per-share-12877928.html"
+        ],
+        [
+            "Adani stocks, Ola Electric, Vodafone Idea among the top gainers and losers in trade on November 27",
+            "https://www.moneycontrol.com/news/videos/business/markets/adani-stocks-ola-electric-vodafone-idea-among-the-top-gainers-and-losers-in-trade-on-november-27-12877909.html"
+        ],
+        [
+            "Technical View: Nifty closes above 24,250 in rangebound session, may move toward 24,550",
+            "https://www.moneycontrol.com/news/business/technicals/technical-view-nifty-closes-above-24250-in-rangebound-session-may-move-toward-24550-12877796.html"
+        ],
+        [
+            "Taking Stock: Sensex, Nifty edge higher amid volatile trading; Adani Group stocks lead recovery",
+            "https://www.moneycontrol.com/news/business/earnings/taking-stock-sensex-nifty-edge-higher-amid-volatile-trading-adani-group-stocks-lead-recovery-12877829.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/news/business/markets"
+        ],
+        [
+            "Bookmark",
+            "javascript:;"
+        ],
+        [
+            "Defence Stocks: डिफेंस स्टॉक्स में तेजी रहेगी जारी? इस कारण शेयरों पर टूटे निवेशक, आगे ये है रुझान",
+            "https://hindi.moneycontrol.com/news/markets/on-jpmorgan-bullish-call-defence-shipbuilding-stocks-surge-up-to-5-percent-1939836.html"
+        ],
+        [
+            "Defence Stocks: डिफेंस स्टॉक्स में तेजी रहेगी जारी? इस कारण शेयरों पर टूटे निवेशक, आगे ये है रुझान",
+            "https://hindi.moneycontrol.com/news/markets/on-jpmorgan-bullish-call-defence-shipbuilding-stocks-surge-up-to-5-percent-1939836.html"
+        ],
+        [
+            "क्या Defense Stocks पर भरोसा करना चाहिए?",
+            "https://hindi.moneycontrol.com/news/videos/markets/on-jpmorgan-bullish-call-defence-shipbuilding-stocks-surge-up-to-5-percent-2-1940036.html"
+        ],
+        [
+            "क्या Defense Stocks पर भरोसा करना चाहिए?",
+            "https://hindi.moneycontrol.com/news/videos/markets/on-jpmorgan-bullish-call-defence-shipbuilding-stocks-surge-up-to-5-percent-2-1940036.html"
+        ],
+        [
+            "Bank of India ने लॉन्ग टर्म बॉन्ड के जरिए जुटाए 5000 करोड़ रुपये, जानिए डिटेल",
+            "https://hindi.moneycontrol.com/news/markets/bank-of-india-raises-5000-crore-through-long-term-bonds-issue-share-price-detail-1940034.html"
+        ],
+        [
+            "ई-रिटेलर्स ने कर्नाटक हाई कोर्ट से कहा, CCI ने जांच में अपने अधिकार क्षेत्र का उल्लंघन किया",
+            "https://hindi.moneycontrol.com/news/business/cci-probe-exceeds-mandate-e-retailers-on-amazon-and-flipkart-said-to-karnataka-hc-1940030.html"
+        ],
+        [
+            "Adani ग्रुप के शेयरों में तूफानी रैली, 20% तक उछले, अदाणी ग्रीन के एक बयान से आई रॉकेट सी तेजी",
+            "https://hindi.moneycontrol.com/news/markets/adani-group-stocks-rose-10-20-percent-today-after-clarification-refuting-bribery-corruption-charges-under-us-fcpa-1939918.html"
+        ],
+        [
+            "Adani Group के शेयरों में बंपर रैली क्यों आई!",
+            "https://hindi.moneycontrol.com/news/videos/markets/adani-group-stocks-rose-10-to-20-percent-on-27th-november-after-adani-green-energy-issued-clarification-refuting-bribery-and-corruption-charges-against-founder-gautam-adani-1940031.html"
+        ],
+        [
+            "1 दिसंबर से OTP के लिए करना होगा ज्यादा इंतजार, ऑनलाइन फ्रॉड रोकने के लिए आ रहा है नया नियम",
+            "https://hindi.moneycontrol.com/news/your-money/users-could-face-otp-delivery-delays-as-trai-message-traceability-deadline-nears-1940028.html"
+        ],
+        [
+            "अजमेर दरगाह में शिव मंदिर होने का दावा करने वाली याचिका कोर्ट में मंजूर, अदालत ने सभी पक्षकारों को भेजा नोटिस",
+            "https://hindi.moneycontrol.com/news/india/court-accepted-the-petition-which-claimed-ajmer-dargah-a-shiva-temple-notice-sent-to-all-the-parties-1940007.html"
+        ],
+        [
+            "View More",
+            "https://hindi.moneycontrol.com/mccode/news/category_news.php?catid=3"
+        ],
+        [
+            "Bookmark",
+            "javascript:;"
+        ],
+        [
+            "Will Nifty, Sensex extend their gains or slip back into correction territory? Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/will-nifty-sensex-extend-their-gains-or-slip-back-into-correction-territory-market-minutes-12875789.html"
+        ],
+        [
+            "Will Nifty, Sensex extend their gains or slip back into correction territory? Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/will-nifty-sensex-extend-their-gains-or-slip-back-into-correction-territory-market-minutes-12875789.html"
+        ],
+        [
+            "Nifty, Sensex to soar on strong BJP-win in Maharashtra, hopes of growth revival | Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/nifty-sensex-to-soar-on-strong-bjp-win-in-maharashtra-hopes-of-growth-revival-market-minutes-12874602.html"
+        ],
+        [
+            "Nifty, Sensex to soar on strong BJP-win in Maharashtra, hopes of growth revival | Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/nifty-sensex-to-soar-on-strong-bjp-win-in-maharashtra-hopes-of-growth-revival-market-minutes-12874602.html"
+        ],
+        [
+            "A sneak peek into govt’s digital transformation | Unusual Suspects",
+            "https://www.moneycontrol.com/news/podcast/a-sneak-peek-into-govts-digital-transformation-unusual-suspects-12873602.html"
+        ],
+        [
+            "Big Tech & Media with Rajeev Chandrashekhar | Political Economy",
+            "https://www.moneycontrol.com/news/podcast/big-tech-media-with-rajeev-chandrashekhar-political-economy-12873565.html"
+        ],
+        [
+            "Nifty sinks to fresh 5-month low as Adani saga deepens market woes; Hyundai, Infosys in focus | Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/nifty-sinks-to-fresh-5-month-low-as-adani-saga-deepens-market-woes-hyundai-infosys-in-focus-market-minutes-12873011.html"
+        ],
+        [
+            "Nifty hovers near critical support level, will markets bounce back? Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/nifty-hovers-near-critical-support-level-will-markets-bounce-back-market-minutes-12869180.html"
+        ],
+        [
+            "CDRI comes of age at COP-29 | Unusual Suspects",
+            "https://www.moneycontrol.com/news/podcast/cdri-comes-of-age-at-cop-29-unusual-suspects-12868116.html"
+        ],
+        [
+            "Breather on Wall Street, last leg of Q2 earnings and Swiggy’s market debut; Eicher Motors, PNB Housing in focus | Market Minutes",
+            "https://www.moneycontrol.com/news/podcast/breather-on-wall-street-last-leg-of-q2-earnings-and-swiggys-market-debut-eicher-motors-pnb-housing-in-focus-market-minutes-12865228.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/news/tags/podcast.html"
+        ],
+        [
+            "Know More",
+            "https://www.moneycontrol.com/my-alerts?utm_source=markets_home&utm_medium=web&utm_campaign=my_alerts"
+        ],
+        [
+            "Indian Indices",
+            "#maindindi"
+        ],
+        [
+            "Global Indices",
+            "#maglindi"
+        ],
+        [
+            "NIFTY 50",
+            "/indian-indices/nifty-50-9.html"
+        ],
+        [
+            "SENSEX",
+            "/indian-indices/sensex-4.html"
+        ],
+        [
+            "NIFTY BANK",
+            "/indian-indices/nifty-bank-23.html"
+        ],
+        [
+            "NIFTY IT",
+            "/indian-indices/nifty-it-19.html"
+        ],
+        [
+            "BSE SMALLCAP",
+            "/indian-indices/bse-smallcap-26.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/markets/indian-indices/"
+        ],
+        [
+            "GIFT NIFTY",
+            "https://www.moneycontrol.com/"
+        ],
+        [
+            "Dow Jones",
+            "https://www.moneycontrol.com/live-index/dowjones"
+        ],
+        [
+            "Nasdaq",
+            "https://www.moneycontrol.com/live-index/nasdaq"
+        ],
+        [
+            "DAX",
+            "https://www.moneycontrol.com/live-market/dax"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/markets/global-indices/"
+        ],
+        [
+            "Adani Enterpris",
+            "https://www.moneycontrol.com/india/stockpricequote/trading/adanienterprises/AE13"
+        ],
+        [
+            "Adani Power",
+            "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/adanipower/AP11"
+        ],
+        [
+            "HDFC Bank",
+            "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01"
+        ],
+        [
+            "Adani Ports",
+            "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/adaniportsspecialeconomiczone/MPS"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nsemact1/index.php?index=FNO"
+        ],
+        [
+            "Sensex",
+            "#masensex"
+        ],
+        [
+            "Nifty",
+            "#manifty"
+        ],
+        [
+            "1D",
+            "#1D"
+        ],
+        [
+            "5D",
+            "#5D"
+        ],
+        [
+            "1M",
+            "#1M"
+        ],
+        [
+            "3M",
+            "#3M"
+        ],
+        [
+            "6M",
+            "#6M"
+        ],
+        [
+            "1Y",
+            "#1Y"
+        ],
+        [
+            "2Y",
+            "#2Y"
+        ],
+        [
+            "80,234.08",
+            "https://www.moneycontrol.com/indian-indices/s&p-bse-sensex-4.html"
+        ],
+        [
+            "1D",
+            "#1D"
+        ],
+        [
+            "5D",
+            "#5D"
+        ],
+        [
+            "1M",
+            "#1M"
+        ],
+        [
+            "3M",
+            "#3M"
+        ],
+        [
+            "6M",
+            "#6M"
+        ],
+        [
+            "1Y",
+            "#1Y"
+        ],
+        [
+            "2Y",
+            "#2Y"
+        ],
+        [
+            "24,274.90",
+            "https://www.moneycontrol.com/indian-indices/nifty-50-9.html"
+        ],
+        [
+            "Advance / Decline (NSE) \n View More \n\n\n\n\n\n\n1729\n743",
+            "https://www.moneycontrol.com/stocksmarketsindia/heat-map-advance-decline-ratio-nse-bse"
+        ],
+        [
+            "CASH",
+            "#msa_cash"
+        ],
+        [
+            "FII SEBI",
+            "#msa_fiisebi"
+        ],
+        [
+            "F&O",
+            "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+        ],
+        [
+            "MF SEBI",
+            "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+        ],
+        [
+            "Only Buyers",
+            "https://www.moneycontrol.com/stocks/marketstats/onlybuyers.php"
+        ],
+        [
+            "Only Sellers",
+            "https://www.moneycontrol.com/stocks/marketstats/onlysellers.php"
+        ],
+        [
+            "Hourly Gainers",
+            "https://www.moneycontrol.com/stocks/marketstats/hourly_gain/bse/curr_hour/index.php"
+        ],
+        [
+            "Hourly Losers",
+            "https://www.moneycontrol.com/stocks/marketstats/hourly_loss/bse/curr_hour/index.php"
+        ],
+        [
+            "Volume Shockers",
+            "https://www.moneycontrol.com/stocks/marketstats/bse_vshockers/index.php"
+        ],
+        [
+            "Price Shockers",
+            "https://www.moneycontrol.com/stocks/marketstats/bse_pshockers/index.php"
+        ],
+        [
+            "F&O Top Gainers",
+            "https://www.moneycontrol.com/stocks/fno/marketstats/futures/gainers/homebody.php?opttopic=&optinst=allfut&sel_mth=all&sort_order=0"
+        ],
+        [
+            "F&O Top Losers",
+            "https://www.moneycontrol.com/stocks/fno/marketstats/futures/losers/homebody.php?opttopic=&optinst=allfut&sel_mth=all&sort_order=0"
+        ],
+        [
+            "FII DII Stats",
+            "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+        ],
+        [
+            "Sector Scan",
+            "https://www.moneycontrol.com/stocks/marketstats/sector-scan/bse/today.html"
+        ],
+        [
+            "Delivery Stats",
+            "https://www.moneycontrol.com/india/stockmarket/stock-deliverables/marketstatistics/bse/abrasives.html"
+        ],
+        [
+            "Data Bank",
+            "https://www.moneycontrol.com/stocks/data-bank/standalone/auto-2-3-wheelers.html"
+        ],
+        [
+            "All Stats",
+            "https://www.moneycontrol.com/stocks/marketstats/index.php"
+        ],
+        [
+            "Top Gainers",
+            "#msa_tg"
+        ],
+        [
+            "Top Losers",
+            "#msa_tl"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "Adani Enterpris",
+            "https://www.moneycontrol.com/india/stockpricequote/trading/adanienterpris/AE13"
+        ],
+        [
+            "Vodafone Idea",
+            "https://www.moneycontrol.com/india/stockpricequote/telecommunication-service-provider/vodafoneidea/IC8"
+        ],
+        [
+            "Adani Ports",
+            "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/adaniports/MPS"
+        ],
+        [
+            "Exide Ind",
+            "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries/exideind/EI"
+        ],
+        [
+            "Ambuja Cements",
+            "https://www.moneycontrol.com/india/stockpricequote/cement-major/ambujacements/AC18"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nsegainer/index.php?index=FNO"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "Ipca Labs",
+            "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/ipcalabs/IL"
+        ],
+        [
+            "Godrej Prop",
+            "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/godrejprop/GP11"
+        ],
+        [
+            "Dr Lal PathLab",
+            "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drlalpathlab/DLP01"
+        ],
+        [
+            "Granules India",
+            "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/granulesindia/GI25"
+        ],
+        [
+            "MOTHERSON",
+            "https://www.moneycontrol.com/india/stockpricequote/motherson/motherson/MSS01"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nseloser/index.php?index=FNO"
+        ],
+        [
+            "52 Week High",
+            "#msa_52wh"
+        ],
+        [
+            "52 Week Low",
+            "#msa_52wl"
+        ],
+        [
+            "View More",
+            ""
+        ],
+        [
+            "ABSL AMC",
+            "https://www.moneycontrol.com/india/stockpricequote/finance-investment/abslamc/ABS"
+        ],
+        [
+            "eClerx Services",
+            "https://www.moneycontrol.com/india/stockpricequote/computers-software-medium-small/eclerxservices/eS06"
+        ],
+        [
+            "CAMS",
+            "https://www.moneycontrol.com/india/stockpricequote/finance-investment/cams/CAM"
+        ],
+        [
+            "HDFC Bank",
+            "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01"
+        ],
+        [
+            "Netweb",
+            "https://www.moneycontrol.com/india/stockpricequote/computer-peripherals/netweb/NTI03"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nsehigh/index.php?index=7"
+        ],
+        [
+            "View More",
+            ""
+        ],
+        [
+            "ZFCVINDIA",
+            "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-others/zfcvindia/WAB"
+        ],
+        [
+            "Equitas Bank",
+            "https://www.moneycontrol.com/india/stockpricequote/bank-private/equitasbank/ESF"
+        ],
+        [
+            "Adani Energy",
+            "https://www.moneycontrol.com/india/stockpricequote/power-transmission-equipment/adanienergy/AT22"
+        ],
+        [
+            "Adani Green Ene",
+            "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/adanigreenene/ADANI54145"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nselow/index.php?index=7"
+        ],
+        [
+            "Motilal Oswal",
+            "https://www.moneycontrol.com/india/stockpricequote/finance-general/motilaloswalfinancialservices/MOF01"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/motilaloswalfinancialservices/MOF01/daily#technicalUl"
+        ],
+        [
+            "Bearish",
+            "https://www.moneycontrol.com/technical-analysis/motilaloswalfinancialservices/MOF01/daily#technicalUl"
+        ],
+        [
+            "Deepak Nitrite",
+            "https://www.moneycontrol.com/india/stockpricequote/chemicals/deepaknitrite/DN"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/deepaknitrite/DN/daily#technicalUl"
+        ],
+        [
+            "Bearish",
+            "https://www.moneycontrol.com/technical-analysis/deepaknitrite/DN/daily#technicalUl"
+        ],
+        [
+            "India Cements",
+            "https://www.moneycontrol.com/india/stockpricequote/cement-major/indiacements/IC"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/indiacements/IC/daily#technicalUl"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/indiacements/IC/daily#technicalUl"
+        ],
+        [
+            "Aditya Birla F",
+            "https://www.moneycontrol.com/india/stockpricequote/retail/adityabirlafashionretail/PFR"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/adityabirlafashionretail/PFR/daily#technicalUl"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/adityabirlafashionretail/PFR/daily#technicalUl"
+        ],
+        [
+            "KEI Industries",
+            "https://www.moneycontrol.com/india/stockpricequote/cables-power-others/keiindustries/KEI"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/keiindustries/KEI/daily#technicalUl"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/keiindustries/KEI/daily#technicalUl"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/markets/technical-trends/?trend=turning-bullish&index=NIFTY+500&indexId=7&ex=N&tab=uptrend"
+        ],
+        [
+            "Patanjali Foods",
+            "https://www.moneycontrol.com/india/stockpricequote/vegetable-oils-products/patanjalifoods/RSI"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/patanjalifoods/RSI/daily#technicalUl"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/patanjalifoods/RSI/daily#technicalUl"
+        ],
+        [
+            "Avanti Feeds",
+            "https://www.moneycontrol.com/india/stockpricequote/aquaculture/avantifeeds/AF21"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/avantifeeds/AF21/daily#technicalUl"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/avantifeeds/AF21/daily#technicalUl"
+        ],
+        [
+            "Ratnamani Metal",
+            "https://www.moneycontrol.com/india/stockpricequote/steel-tubes-pipes/ratnamanimetalstubes/RMT"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/ratnamanimetalstubes/RMT/daily#technicalUl"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/ratnamanimetalstubes/RMT/daily#technicalUl"
+        ],
+        [
+            "ZFCVINDIA",
+            "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-others/zfcommercialvehiclecontrolsystemsindia/WAB"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/zfcommercialvehiclecontrolsystemsindia/WAB/daily#technicalUl"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/zfcommercialvehiclecontrolsystemsindia/WAB/daily#technicalUl"
+        ],
+        [
+            "Network 18",
+            "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/network18mediainvestments/NMI"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/network18mediainvestments/NMI/daily#technicalUl"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/network18mediainvestments/NMI/daily#technicalUl"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/markets/technical-trends/?trend=turning-bearish&index=NIFTY+500&indexId=7&ex=N&tab=downtrend"
+        ],
+        [
+            "One 97 Comm",
+            "https://www.moneycontrol.com/india/stockpricequote/online-services/one97communicationspaytm/OC03"
+        ],
+        [
+            "Very Bullish",
+            "https://www.moneycontrol.com/technical-analysis/one97communicationspaytm/OC03/daily#technicalUl"
+        ],
+        [
+            "COFORGE LTD.",
+            "https://www.moneycontrol.com/india/stockpricequote/computers-software/coforgelimited/NII02"
+        ],
+        [
+            "Very Bullish",
+            "https://www.moneycontrol.com/technical-analysis/coforgelimited/NII02/daily#technicalUl"
+        ],
+        [
+            "Divis Labs",
+            "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/divislaboratories/DL03"
+        ],
+        [
+            "Very Bullish",
+            "https://www.moneycontrol.com/technical-analysis/divislaboratories/DL03/daily#technicalUl"
+        ],
+        [
+            "Piramal Pharma",
+            "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals-drugs/piramalpharma/PP34"
+        ],
+        [
+            "Bullish",
+            "https://www.moneycontrol.com/technical-analysis/piramalpharma/PP34/daily#technicalUl"
+        ],
+        [
+            "Amber Enterpris",
+            "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/amberenterprisesindialimited/AEI01"
+        ],
+        [
+            "Very Bullish",
+            "https://www.moneycontrol.com/technical-analysis/amberenterprisesindialimited/AEI01/daily#technicalUl"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/markets/technical-trends/?trend=bullish&index=NIFTY+500&indexId=7&ex=N&tab=uptrend"
+        ],
+        [
+            "Dr Reddys Labs",
+            "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/drreddyslaboratories/DRL/daily#technicalUl"
+        ],
+        [
+            "Reliance",
+            "https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI"
+        ],
+        [
+            "Bearish",
+            "https://www.moneycontrol.com/technical-analysis/relianceindustries/RI/daily#technicalUl"
+        ],
+        [
+            "Honasa Consumer",
+            "https://www.moneycontrol.com/india/stockpricequote/household-personal-products/honasaconsumer/HCL06"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/honasaconsumer/HCL06/daily#technicalUl"
+        ],
+        [
+            "Adani Green Ene",
+            "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/adanigreenenergylimited/ADANI54145"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/adanigreenenergylimited/ADANI54145/daily#technicalUl"
+        ],
+        [
+            "IGL",
+            "https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/indraprasthagas/IG04"
+        ],
+        [
+            "Very Bearish",
+            "https://www.moneycontrol.com/technical-analysis/indraprasthagas/IG04/daily#technicalUl"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/markets/technical-trends/?trend=bearish&index=NIFTY+500&indexId=7&ex=N&tab=downtrend"
+        ],
+        [
+            "Only Buyers",
+            "#msa_ob"
+        ],
+        [
+            "Only Sellers",
+            "#msa_os"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/onlybuyers.php"
+        ],
+        [
+            "Ola Electric",
+            "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-brakes/olaelectric/OEM"
+        ],
+        [
+            "Adani Total Gas",
+            "https://www.moneycontrol.com/india/stockpricequote/gas-distribution/adanitotalgas/ADG01"
+        ],
+        [
+            "Adani Power",
+            "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/adanipower/AP11"
+        ],
+        [
+            "Xpro India",
+            "https://www.moneycontrol.com/india/stockpricequote/packaging/xproindia/XI"
+        ],
+        [
+            "Sarla Performan",
+            "https://www.moneycontrol.com/india/stockpricequote/textiles-processing/sarlaperforman/SPF01"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/onlybuyers.php?optex=NSE"
+        ],
+        [
+            "Pudumjee Ind",
+            "https://www.moneycontrol.com/india/stockpricequote/paper/pudumjeeind/PI36"
+        ],
+        [
+            "Next Mediaworks",
+            "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/nextmediaworks/MDM01"
+        ],
+        [
+            "STEL Holdings",
+            "https://www.moneycontrol.com/india/stockpricequote/finance-investments/stelholdings/STE01"
+        ],
+        [
+            "Dev Information",
+            "https://www.moneycontrol.com/india/stockpricequote/computers-software/devinformation/DIT02"
+        ],
+        [
+            "Aaron Industrie",
+            "https://www.moneycontrol.com/india/stockpricequote/engineering/aaronindustrie/AI79"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/onlysellers.php?optex=NSE"
+        ],
+        [
+            "Price Shockers",
+            "#msa_ps"
+        ],
+        [
+            "Volume Shockers",
+            "#msa_vs"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nse_pshockers/index.php?index=7"
+        ],
+        [
+            "TataTeleservice",
+            "https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/tatateleservice/TTM01"
+        ],
+        [
+            "Adani Power",
+            "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/adanipower/AP11"
+        ],
+        [
+            "Adani Total Gas",
+            "https://www.moneycontrol.com/india/stockpricequote/gas-distribution/adanitotalgas/ADG01"
+        ],
+        [
+            "Garden Reach Sh",
+            "https://www.moneycontrol.com/india/stockpricequote/engineering-heavy/gardenreachsh/GRS01"
+        ],
+        [
+            "Sonata",
+            "https://www.moneycontrol.com/india/stockpricequote/computers-software-medium-small/sonata/SS42"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nse_pshockers/index.php?index=7"
+        ],
+        [
+            "View More",
+            ""
+        ],
+        [
+            "Adani Ports",
+            "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/adaniports/MPS"
+        ],
+        [
+            "Adani Enterpris",
+            "https://www.moneycontrol.com/india/stockpricequote/trading/adanienterpris/AE13"
+        ],
+        [
+            "Siemens",
+            "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/siemens/S"
+        ],
+        [
+            "Dr Reddys Labs",
+            "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drreddyslabs/DRL"
+        ],
+        [
+            "PVR INOX",
+            "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/pvrinox/PVR"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/nse_vshockers/index.php?index=FNO"
+        ],
+        [
+            "BSE / NSE",
+            "#msa_ilnse"
+        ],
+        [
+            "Dabur India",
+            "https://www.moneycontrol.com/india/stockpricequote/personal-care/daburindia/DI"
+        ],
+        [
+            "Ambuja Cements",
+            "https://www.moneycontrol.com/india/stockpricequote/cement-major/ambujacements/AC18"
+        ],
+        [
+            "Ambuja Cements",
+            "https://www.moneycontrol.com/india/stockpricequote/cement-major/ambujacements/AC18"
+        ],
+        [
+            "Ambuja Cements",
+            "https://www.moneycontrol.com/india/stockpricequote/cement-major/ambujacements/AC18"
+        ],
+        [
+            "Ambuja Cements",
+            "https://www.moneycontrol.com/india/stockpricequote/cement-major/ambujacements/AC18"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/blockdeals/nse/index.php"
+        ],
+        [
+            "Long Buildup",
+            "#longBuild"
+        ],
+        [
+            "Short Buildup",
+            "#shortBuild"
+        ],
+        [
+            "28-11-2024",
+            "javascript:void(0)"
+        ],
+        [
+            "26-12-2024",
+            "javascript:void(0)"
+        ],
+        [
+            "30-01-2025",
+            "javascript:void(0)"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/fno/marketstats/futures/oi_inc_p_inc/homebody.php?opttopic=allfut&optinst=allfut&sel_mth=1&sort_order=0"
+        ],
+        [
+            "28-11-2024",
+            "javascript:void(0)"
+        ],
+        [
+            "26-12-2024",
+            "javascript:void(0)"
+        ],
+        [
+            "30-01-2025",
+            "javascript:void(0)"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/fno/marketstats/futures/oi_inc_p_dec/homebody.php?opttopic=allfut&optinst=allfut&sel_mth=1&sort_order=0"
+        ],
+        [
+            "NSE",
+            "#NSEMenuDesk"
+        ],
+        [
+            "BSE",
+            "#BSEMenuDesk"
+        ],
+        [
+            "MC Defined",
+            "#nsemcdefined"
+        ],
+        [
+            "Key Indices",
+            "#nsekeyindices"
+        ],
+        [
+            "Sectoral Indices",
+            "#nsesectoralindices"
+        ],
+        [
+            "Other Indices",
+            "#nseotherindices"
+        ],
+        [
+            "MC Defined",
+            "#bsemcdefined"
+        ],
+        [
+            "Key Indices",
+            "#bsekeyindices"
+        ],
+        [
+            "Sectoral Indices",
+            "#bsesectoralindices"
+        ],
+        [
+            "Other Indices",
+            "#bseotherindices"
+        ],
+        [
+            "Top Gainers",
+            "#us_msa_tg"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "Merck & Co",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/merckco/MRK"
+        ],
+        [
+            "UnitedHealth",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/unitedhealth/UNH"
+        ],
+        [
+            "J&J",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/jj/JNJ"
+        ],
+        [
+            "Visa",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/visa/V"
+        ],
+        [
+            "Travelers Companies",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/travelerscompanies/TRV"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/us-markets/market-movers/top-gainers?index=Dow%20jones"
+        ],
+        [
+            "Top Losers",
+            "#us_msa_tl"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "Intel",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/intel/INTC"
+        ],
+        [
+            "Nvidia",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/nvidia/NVDA"
+        ],
+        [
+            "Salesforce.com",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/salesforcecom/CRM"
+        ],
+        [
+            "IBM",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/ibm/IBM"
+        ],
+        [
+            "Amazon",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/amazon/AMZN"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/us-markets/market-movers/top-losers?index=Dow%20jones"
+        ],
+        [
+            "52 Week High",
+            "#us_msa_52wh"
+        ],
+        [
+            "52 Week Low",
+            "#us_msa_52wl"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "American Express",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/americanexpress/AXP"
+        ],
+        [
+            "Cisco Systems",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/ciscosystems/CSCO"
+        ],
+        [
+            "Goldman Sachs",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/goldmansachs/GS"
+        ],
+        [
+            "Home Depot",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/homedepot/HD"
+        ],
+        [
+            "JPMorgan Chase",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/jpmorganchase/JPM"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/us-markets/market-movers/52-week-high?index=Dow%20jones"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "Amgen",
+            "https://www.moneycontrol.com/us-markets/stockpricequote/amgen/AMGN"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/us-markets/market-movers/52-week-low?index=Dow%20jones"
+        ],
+        [
+            "Top Gainers",
+            "#crypto_tg"
+        ],
+        [
+            "Top Losers",
+            "#crypto_tl"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/crypto-market/market-movers/top-gainers/inr"
+        ],
+        [
+            "1 Day",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Week",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "6 Month",
+            "javascript:void(0)"
+        ],
+        [
+            "YTD",
+            "javascript:void(0)"
+        ],
+        [
+            "1 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "2 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "3 Year",
+            "javascript:void(0)"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/crypto-market/market-movers/top-losers/inr"
+        ],
+        [
+            "Ola Electric shares locked in 20% upper circuit on new Gig, S1 Z range of scooters; Citi gives 'buy' rating",
+            "https://www.moneycontrol.com/news/business/markets/ola-electric-shares-zoom-9-on-gig-and-s1-z-range-scooters-citi-initiates-with-buy-12877218.html"
+        ],
+        [
+            "Aster DM stock soars 5% on plans to acquire remaining stake in Aster Aadhar Hospital",
+            "https://www.moneycontrol.com/news/business/markets/aster-dm-stock-soars-5-on-plans-to-acquire-remaining-stake-in-aster-aadhar-hospital-12877184.html"
+        ],
+        [
+            "M&M shares rise 3% on new 'Born Electric' SUV launch, Morgan Stanley issues 'overweight' call",
+            "https://www.moneycontrol.com/news/business/markets/mm-shares-rise-3-on-new-born-electric-suv-launch-morgan-stanley-issues-overweight-call-12877170.html"
+        ],
+        [
+            "Sensex, Nifty close with modest gains in a volatile session amid rebound in Adani stocks; autos in action led by Ola",
+            "https://www.moneycontrol.com/news/business/markets/sensex-nifty-close-with-modest-gains-after-yo-yoing-autos-in-action-led-by-ola-adani-stocks-rebound-12877715.html"
+        ],
+        [
+            "Brokerages mixed on LTIMindtree as it outlines revenue target of $10 billion by FY31-32",
+            "https://www.moneycontrol.com/news/business/markets/brokerages-mixed-on-ltimindtree-as-it-outlines-revenue-target-of-10-billion-by-fy31-32-12877166.html"
+        ],
+        [
+            "Siemens shares gain on reporting jump in Q4 profit, brokerages hike target prices",
+            "https://www.moneycontrol.com/news/business/markets/siemens-shares-gain-on-reporting-jump-in-q4-profit-brokerages-hike-target-prices-12877171.html"
+        ],
+        [
+            "Hyundai Motor India rises 2.5% after Morgan Stanley, JPMorgan initiate 'overweight' calls",
+            "https://www.moneycontrol.com/news/business/markets/morgan-stanley-jpmorgan-initiate-overweight-calls-on-hyundai-india-foresee-29-upside-12877154.html"
+        ],
+        [
+            "Prestige Estates drops 5% after Morgan Stanley downgrades rating to 'underweight'",
+            "https://www.moneycontrol.com/news/business/markets/morgan-stanley-downgrades-prestige-estates-to-underweight-foresees-11-5-downside-12877139.html"
+        ],
+        [
+            "Kotak Bank shares gain after CCI approves acquisition of Standard Chartered's personal loan book",
+            "https://www.moneycontrol.com/news/business/markets/kotak-bank-shares-in-focus-after-cci-approves-acquisition-of-standard-chartereds-personal-loan-book-12877129.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/news/stocksinnews-142.html"
+        ],
+        [
+            "Market snaps 2-week fall, rupee hits fresh record low\n1",
+            "/news/photos/business/markets/market-snaps-2-week-fall-rupee-hits-fresh-record-low-12873929.html"
+        ],
+        [
+            "Market extends losses in second week; rupee climbs to fresh low\n2",
+            "/news/photos/business/markets/market-extends-losses-in-second-week-rupee-climbs-to-fresh-low-12868557.html"
+        ],
+        [
+            "Market ends lower amid volatility; rupee hit fresh record low\n3",
+            "/news/photos/business/markets/market-ends-lower-amid-volatility-rupee-hit-fresh-record-low-12861921.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/news/tags/slideshow.html"
+        ],
+        [
+            "RDB Realty",
+            "/india/stockpricequote/miscellaneous/rdbrealtyinfrastructure/RDB01"
+        ],
+        [
+            "Guj Heavy Chem",
+            "/india/stockpricequote/chemicals/gujaratheavychemicals/GHC"
+        ],
+        [
+            "HTE",
+            "/india/stockpricequote/miscellaneous/harishtextileengineers/HARIS54268"
+        ],
+        [
+            "JMJ Fintech",
+            "/india/stockpricequote/finance-investments/jmjfintech/ME15"
+        ],
+        [
+            "Virgo Polymers",
+            "/india/stockpricequote/packaging/virgopolymersindia/VPI"
+        ],
+        [
+            "Giriraj Civil D",
+            "/india/stockpricequote/cement-major/girirajcivildevelopers/GCD02"
+        ],
+        [
+            "Canara Bank",
+            "/india/stockpricequote/banks-public-sector/canarabank/CB06"
+        ],
+        [
+            "Evexia Lifecare",
+            "/india/stockpricequote/chemicals/evexialifecare/JHP"
+        ],
+        [
+            "Mercury Ev-Tech",
+            "/india/stockpricequote/miscellaneous/mercuryev-tech/MM01"
+        ],
+        [
+            "Gillette India",
+            "/india/stockpricequote/personal-care/gilletteindia/GI22"
+        ],
+        [
+            "Raghav Product",
+            "/india/stockpricequote/refractories/raghavproductivityenhancers/RRM01"
+        ],
+        [
+            "SPRIGHT",
+            "/india/stockpricequote/miscellaneous/sprightagro/KF03"
+        ],
+        [
+            "Easy Trip",
+            "/india/stockpricequote/travel-services/easytripplanners/ETP01"
+        ],
+        [
+            "Rajoo Engineers",
+            "/india/stockpricequote/engineering/rajooengineers/RE"
+        ],
+        [
+            "Wipro",
+            "/india/stockpricequote/computers-software/wipro/W"
+        ],
+        [
+            "Vivid Mercant",
+            "/india/stockpricequote/diversified/vividmercantile/VIE"
+        ],
+        [
+            "Diamond Power",
+            "/india/stockpricequote/cables-powerothers/diamondpowerinfrastructure/DC05"
+        ],
+        [
+            "TARACHAND",
+            "/india/stockpricequote/miscellaneous/tarachandinfralogisticsolutions/TCL01"
+        ],
+        [
+            "Eraaya Life",
+            "/india/stockpricequote/miscellaneous/eraayalifespaces/TE03"
+        ],
+        [
+            "Consecutive Inv",
+            "/india/stockpricequote/finance-investments/consecutiveinvestmenttradingcompany/CIT01"
+        ],
+        [
+            "Scanpoint Geo",
+            "/india/stockpricequote/computers-software/scanpointgeomatics/SG12"
+        ],
+        [
+            "Enbee Trade",
+            "/india/stockpricequote/finance-investments/enbeetradefinance/ETF"
+        ],
+        [
+            "LWS Knitwear",
+            "/india/stockpricequote/textiles-hosieryknitwear/lwsknitwear/LWS"
+        ],
+        [
+            "Jonjua Overseas",
+            "/india/stockpricequote/miscellaneous/jonjuaoverseas/JO"
+        ],
+        [
+            "Bhatia Communic",
+            "/india/stockpricequote/telecommunications-service/bhatiacommunicationsretailindialtd/BCR"
+        ],
+        [
+            "Multibase India",
+            "/india/stockpricequote/plastics/multibaseindia/MI51"
+        ],
+        [
+            "Natco Pharma",
+            "/india/stockpricequote/pharmaceuticals/natcopharma/NP07"
+        ],
+        [
+            "Happiest Minds",
+            "/india/stockpricequote/it-servicesconsulting/happiestmindstechnologies/HMT01"
+        ],
+        [
+            "Ingersoll Rand",
+            "/india/stockpricequote/compressors/ingersollrandindia/IRI01"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketinfo/upcoming_actions/home.html"
+        ],
+        [
+            "View More",
+            "https://m.moneycontrol.com/markets/corporate-action/"
+        ],
+        [
+            "Notices on ETFs",
+            "https://www.moneycontrol.com/stocks/stock_market/announcements_listing.php?type=e"
+        ],
+        [
+            "Notices on MFs",
+            "https://www.moneycontrol.com/stocks/stock_market/announcements_listing.php?type=m"
+        ],
+        [
+            "Nifty 50",
+            "https://www.moneycontrol.com/indian-indices/nifty-50-9.html"
+        ],
+        [
+            "BSE Sensex",
+            "https://www.moneycontrol.com/indian-indices/sensex-4.html"
+        ],
+        [
+            "Nifty Bank",
+            "https://www.moneycontrol.com/indian-indices/nifty-bank-23.html"
+        ],
+        [
+            "Nifty IT",
+            "https://www.moneycontrol.com/indian-indices/nifty-it-19.html"
+        ],
+        [
+            "BSE SmallCap",
+            "https://www.moneycontrol.com/indian-indices/bse-smallcap-26.html"
+        ],
+        [
+            "BSE MidCap",
+            "https://www.moneycontrol.com/indian-indices/bse-midcap-25.html"
+        ],
+        [
+            "Nifty Auto",
+            "https://www.moneycontrol.com/indian-indices/nifty-auto-52.html"
+        ],
+        [
+            "BSE Cap Goods",
+            "https://www.moneycontrol.com/indian-indices/bse-cap-goods-13.html"
+        ],
+        [
+            "BSE Cons Durable",
+            "https://www.moneycontrol.com/indian-indices/bse-cons-durables-16.html"
+        ],
+        [
+            "BSE FMCG",
+            "https://www.moneycontrol.com/indian-indices/bse-fmcg-14.html"
+        ],
+        [
+            "BSE Healthcare",
+            "https://www.moneycontrol.com/indian-indices/bse-healthcare-15.html"
+        ],
+        [
+            "BSE Metals",
+            "https://www.moneycontrol.com/indian-indices/bse-metal-21.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/news/localmarkets-265.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/stocks/marketstats/sector-scan/nse/today.html"
+        ],
+        [
+            "HDFC Bank",
+            "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01"
+        ],
+        [
+            "Tejas Networks",
+            "https://www.moneycontrol.com/india/stockpricequote/telecommunications-equipment/tejasnetworks/TN"
+        ],
+        [
+            "Bajaj Finance",
+            "https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/bajajfinance/BAF"
+        ],
+        [
+            "Bajaj Finance",
+            "https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/bajajfinance/BAF"
+        ],
+        [
+            "Persistent",
+            "https://www.moneycontrol.com/india/stockpricequote/computers-software/persistent/PS15"
+        ],
+        [
+            "Aditya Birla F",
+            "https://www.moneycontrol.com/india/stockpricequote/retail/adityabirlaf/PFR"
+        ],
+        [
+            "Wipro",
+            "https://www.moneycontrol.com/india/stockpricequote/computers-software/wipro/W"
+        ],
+        [
+            "HDFC Life",
+            "https://www.moneycontrol.com/india/stockpricequote/lifehealth-insurance/hdfclife/HSL01"
+        ],
+        [
+            "Stock Views",
+            "https://www.moneycontrol.com/news/expertadvice-250.html"
+        ],
+        [
+            "Buzzing Stocks",
+            "https://www.moneycontrol.com/news/stocksinnews-142.html"
+        ],
+        [
+            "Research Reports",
+            "https://www.moneycontrol.com/news/broker-research-reports-13.html"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/broker-research/"
+        ],
+        [
+            "Daily Voice | Private banks remain most attractively priced, poised for better performance: Client Associates' Rohit Sarin",
+            "/news/business/markets/daily-voice-private-banks-remain-most-attractively-priced-sector-to-be-better-performer-going-forward-says-client-associates-rohit-sarin-12877105.html"
+        ],
+        [
+            "Daily Voice: Uncertainties around earnings growth and inflation persist, says INDmoney's Ashish Kashyap",
+            "/news/business/markets/daily-voice-uncertainties-around-earnings-growth-and-inflation-persist-says-indmoneys-ashish-kashyap-12875761.html"
+        ],
+        [
+            "Moneycontrol Pro Market Outlook | Can election success drive a rally in Indian stock markets?",
+            "/news/business/markets/moneycontrol-pro-market-outlook-can-election-success-drive-a-rally-in-indian-stock-markets-12874312.html"
+        ],
+        [
+            "Daily Voice: Marcellus' Pramod Gubbi sees little chance of foreign flows reversal if US bond yields remain elevated",
+            "/news/business/markets/daily-voice-marcellus-pramod-gubbi-sees-little-chance-of-foreign-flows-reversal-if-us-bond-yields-remain-elevated-12874584.html"
+        ],
+        [
+            "Chartist Talks: Ashish Kyal bullish on these 2 stocks for medium term, but avoids this FMCG counter",
+            "/news/business/markets/chartist-talks-ashish-kyal-bullish-on-these-2-stocks-for-medium-term-but-avoids-this-fmcg-counter-12874539.html"
+        ],
+        [
+            "Daily Voice: Equirus' Sahil Shah believes these sectors appear more reasonable in valuation",
+            "/news/business/markets/daily-voice-equirus-sahil-shah-believes-these-sectors-appear-more-reasonable-in-valuation-12874295.html"
+        ],
+        [
+            "Chartist Talks: Nifty’s pullback rally likely to persist; bullish on these 2 stocks, says Sudeep Shah of SBI Securities",
+            "/news/business/markets/chartist-talks-pullback-rally-in-nifty-likely-to-continue-for-next-couple-of-sessions-bullish-on-these-2-stocks-says-sudeep-shah-of-sbi-securities-12874141.html"
+        ],
+        [
+            "Daily Voice: Max Life's Sachin Bajaj eyes investor boost from infra revival, consumption rebound",
+            "/news/business/markets/daily-voice-max-lifes-sachin-bajaj-eyes-investor-boost-from-infra-revival-consumption-rebound-12873818.html"
+        ],
+        [
+            "It’s a counter-rally, not a trend reversal: Rohit Srivastava",
+            "/news/business/markets/its-a-counter-rally-not-a-trend-reversal-rohit-srivastava-12873712.html"
+        ],
+        [
+            "Daily Voice: This financial expert sees India recording 7% growth in FY25, says moderation likely in coming years",
+            "/news/business/markets/daily-voice-this-investment-expert-sees-india-recording-7-growth-in-fy25-says-moderation-likely-in-coming-years-12872986.html"
+        ],
+        [
+            "CDSL – Valuation full, but earnings growth can drive stock upside",
+            "/news/business/moneycontrol-research/cdsl-valuation-full-but-earnings-growth-can-drive-stock-upside-12877187.html"
+        ],
+        [
+            "Cummins India: Domestic market fuels growth",
+            "/news/business/cummins-india-domestic-market-fuels-growth-12870228.html"
+        ],
+        [
+            "Galaxy Surfactants: International business prospects hedge domestic slowdown",
+            "/news/business/moneycontrol-research/galaxy-surfactants-international-business-prospects-hedge-domestic-slowdown-12877355.html"
+        ],
+        [
+            "Karur Vysya Bank — good quality at reasonable valuation",
+            "/news/business/earnings/karur-vysya-bank-good-quality-at-reasonable-valuation-12876108.html"
+        ],
+        [
+            "Sundaram Finance: Steady, sustainable growth with superior asset quality",
+            "/news/business/sundaram-finance-steady-sustainable-growth-with-superior-asset-quality-12875803.html"
+        ],
+        [
+            "MC Pro Affluent India Portfolio: Build long-term wealth, riding on a growing, aspirational India",
+            "/news/business/stocks/mc-pro-affluent-india-portfolio-build-long-term-wealth-riding-on-a-growing-aspirational-india-12874570.html"
+        ],
+        [
+            "Sagar Cements – Worth a look after a poor quarter?",
+            "/news/business/moneycontrol-research/sagar-cements-worth-a-look-after-a-poor-quarter-12875816.html"
+        ],
+        [
+            "MC Pro launches actively-managed, customisable portfolios under Alpha Folios",
+            "/news/business/moneycontrol-research/mc-pro-launches-actively-managed-customisable-portfolios-under-alpha-folios-12874628.html"
+        ],
+        [
+            "Coal India: Long-term outlook remains attractive",
+            "/news/business/moneycontrol-research/coal-india-long-term-outlook-remains-attractive-12874646.html"
+        ],
+        [
+            "Max Healthcare: Quick turnaround in acquired assets makes us positive on the stock",
+            "/news/business/earnings/max-healthcare-quick-turnaround-in-acquired-assets-makes-us-positive-on-the-stock-12874662.html"
+        ],
+        [
+            "Indian Defence Stocks: Correction unlocks long-term growth potential",
+            "/news/business/moneycontrol-research/indian-defence-stocks-correction-unlocks-long-term-growth-potential-12857617.html"
+        ],
+        [
+            "Equity",
+            "#rmequity"
+        ],
+        [
+            "Debt",
+            "#rmdebt"
+        ],
+        [
+            "Hybrid",
+            "#rmhyb"
+        ],
+        [
+            "Money Market",
+            "#rmmoneym"
+        ],
+        [
+            "All",
+            "#rmall"
+        ],
+        [
+            "JM Flexi Cap Fund - DP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-flexicap-fund-direct-plan/MJM320"
+        ],
+        [
+            "JM Flexi Cap Fund - RP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-flexicap-fund-regular-plan/MJM238"
+        ],
+        [
+            "Canara Robeco Flexi Cap Fund - D - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-flexi-cap-fund-direct-plan/MCA202"
+        ],
+        [
+            "Canara Robeco Flexi Cap Fund - R - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-flexi-cap-fund-regular-plan/MCA022"
+        ],
+        [
+            "UTI Flexi Cap Fund - DP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/uti-flexi-cap-fund-direct-plan/MUT651"
+        ],
+        [
+            "JM Large Cap Fund - D (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-large-cap-fund-direct-plan/MJM322"
+        ],
+        [
+            "JM Large Cap Fund (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-large-cap-fund/MJM002"
+        ],
+        [
+            "CR Bluechip Equity Fund - D (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-blue-chip-equity-fund-direct-plan/MCA212"
+        ],
+        [
+            "CR Bluechip Equity Fund (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-blue-chip-equity-fund-regular-plan/MCA174"
+        ],
+        [
+            "Axis Bluechip Fund - D (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/axis-bluechip-fund-direct-plan/MAA181"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/mutual-funds/best-funds/equity.html"
+        ],
+        [
+            "DSP Low Duration Fund - Direct (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/dsp-low-duration-fund-direct-plan/MDS1162"
+        ],
+        [
+            "Invesco India Low Duration Fund",
+            "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-low-duration-fund-direct-plan-growth/MLI602"
+        ],
+        [
+            "Invesco India Low Duration Fund",
+            "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-low-duration-fund-growth/MLI016"
+        ],
+        [
+            "DSP Low Duration Fund - Regular (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/dsp-low-duration-fund-regular-plan/MDS1157"
+        ],
+        [
+            "Mirae Asset Short Duration Fund",
+            "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-short-duration-fund-direct-plan-growth/MMA137"
+        ],
+        [
+            "Edelweiss Bank & PSU Debt-Reg (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/edelweiss-banking-and-psu-debt-fund-regular-plan/MJP198"
+        ],
+        [
+            "Mirae Asset Short Duration Fund",
+            "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-short-duration-fund-regular-plan-growth/MMA139"
+        ],
+        [
+            "DSP Strategic Bond Fund - Direct (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/dsp-strategic-bond-fund-direct-plan/MDS630"
+        ],
+        [
+            "DSP Strategic Bond Fund - IP (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/dsp-strategic-bond-fund-institutional-plan/MDS073"
+        ],
+        [
+            "DSP Gilt Fund",
+            "https://www.moneycontrol.com/mutual-funds/nav/dsp-gilt-fund-direct-plan-growth/MDS622"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/mutual-funds/best-funds/debt.html"
+        ],
+        [
+            "CR Equity Hybrid Fund - DP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-equity-hybrid-fund-direct-plan-growth/MCA208"
+        ],
+        [
+            "CR Equity Hybrid Fund - RP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-equity-hybrid-fund-regular-plan-growth/MCA051"
+        ],
+        [
+            "SBI Equity Hybrid Fund - D (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/sbi-equity-hybrid-fund-direct-plan/MSB516"
+        ],
+        [
+            "SBI Equity Hybrid Fund (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/sbi-equity-hybrid-fund/MSB063"
+        ],
+        [
+            "LIC MF Conservative Hybrid Fund",
+            "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-conservative-hybrid-fund-direct-plan-growth/MJB178"
+        ],
+        [
+            "LIC MF Conservative Hybrid Fund",
+            "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-conservative-hybrid-fund-growth/MJB020"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/mutual-funds/best-funds/hybrid.html"
+        ],
+        [
+            "JM Flexi Cap Fund - DP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-flexicap-fund-direct-plan/MJM320"
+        ],
+        [
+            "JM Flexi Cap Fund - RP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-flexicap-fund-regular-plan/MJM238"
+        ],
+        [
+            "Canara Robeco Flexi Cap Fund - D - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-flexi-cap-fund-direct-plan/MCA202"
+        ],
+        [
+            "Canara Robeco Flexi Cap Fund - R - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-flexi-cap-fund-regular-plan/MCA022"
+        ],
+        [
+            "UTI Flexi Cap Fund - DP - (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/uti-flexi-cap-fund-direct-plan/MUT651"
+        ],
+        [
+            "JM Large Cap Fund - D (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-large-cap-fund-direct-plan/MJM322"
+        ],
+        [
+            "JM Large Cap Fund (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/jm-large-cap-fund/MJM002"
+        ],
+        [
+            "CR Bluechip Equity Fund - D (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-blue-chip-equity-fund-direct-plan/MCA212"
+        ],
+        [
+            "CR Bluechip Equity Fund (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-blue-chip-equity-fund-regular-plan/MCA174"
+        ],
+        [
+            "Axis Bluechip Fund - D (G)",
+            "https://www.moneycontrol.com/mutual-funds/nav/axis-bluechip-fund-direct-plan/MAA181"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/mutual-funds/best-funds/index.html"
+        ],
+        [
+            "Open Now",
+            "#ipoopnnow"
+        ],
+        [
+            "Upcoming",
+            "#ipoupcom"
+        ],
+        [
+            "Listed IPOs",
+            "#ipolisted"
+        ],
+        [
+            "()",
+            "/"
+        ],
+        [
+            "(Sai_Life_Sciences_Limited_DRHP.pdf)",
+            "/news_html_files/pdffiles/jul2024/Sai_Life_Sciences_Limited_DRHP.pdf"
+        ],
+        [
+            "(Suraksha_Diagnostic_Limited_DRHP.pdf)",
+            "/news_html_files/pdffiles/jul2024/Suraksha_Diagnostic_Limited_DRHP.pdf"
+        ],
+        [
+            "(Standard_Glass_Lining_Technology_Limited_DRHP.pdf)",
+            "/news_html_files/pdffiles/jul2024/Standard_Glass_Lining_Technology_Limited_DRHP.pdf"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/ipo/ipo-snapshot/upcoming-issues.html"
+        ],
+        [
+            "Share Samadhan",
+            "/india/stockpricequote/trading/sharesamadhan/SSL18"
+        ],
+        [
+            "Travels & Renta",
+            "/india/stockpricequote/travel-services/travelsrentals/TRL01"
+        ],
+        [
+            "Ecos India Mobi",
+            "/india/stockpricequote/hospitalhealthcare-services/ecosindiamobilityhospitality/EIMHL"
+        ],
+        [
+            "Premier Energie",
+            "/india/stockpricequote/electric-equipment/premierenergies/PEL06"
+        ],
+        [
+            "View More",
+            "https://www.moneycontrol.com/ipo/ipo-snapshot/listed-ipos.html"
+        ],
+        [
+            "Must Watch Videos",
+            "#vidg_video"
+        ],
+        [
+            "Classroom stories",
+            "#vidg_picgallery"
+        ],
+        [
+            "The working of the Parabolic SAR and how to read trend direction and price revers",
+            "/news/business/markets/the-working-of-the-parabolic-sar-and-how-to-read-trend-direction-and-price-reversals-11464191.html"
+        ],
+        [
+            "Is trend really your friend? Decoding the ADX indicator",
+            "/news/business/markets/is-trend-really-your-friend-decoding-the-adx-indicator-11299931.html"
+        ],
+        [
+            "Band Aid: Improve your trading strategy with Bollinger Bands",
+            "/news/business/markets/band-aid-improve-your-trading-strategy-with-bollinger-bands-10349721.html"
+        ],
+        [
+            "How to make a trading strategy effective through Bollinger Bands",
+            "/news/business/markets/how-to-make-a-trading-strategy-effective-through-bollinger-bands-10313341.html"
+        ],
+        [
+            "Here is how the ATM Bull Put Spread works as handy bargain hunter in market corre",
+            "/news/business/markets/here-is-how-the-atm-bull-put-spread-works-as-handy-bargain-hunter-in-market-correction-9192631.html"
+        ],
+        [
+            "Delhi: Govt school student in hospital after classroom ceiling fan falls on her h",
+            "/news/india/delhi-govt-school-student-in-hospital-after-classroom-ceiling-fan-falls-on-her-head-9105271.html"
+        ],
+        [
+            "Here is how you can sharpen your trades with options open interest data",
+            "/news/business/markets/here-is-how-you-can-sharpen-your-trades-with-options-open-interest-data-8672421.html"
+        ],
+        [
+            "Here’s how to make profits via OTM Vertical Spread strategy in volatile times",
+            "/news/business/markets/heres-how-to-make-profits-via-otm-vertical-spread-strategy-in-volatile-times-8640261.html"
+        ],
+        [
+            "How Ben Graham's investing principles help prepare for crash",
+            "/news/business/markets/how-ben-grahams-investing-principles-help-prepare-for-crash-8044011.html"
+        ],
+        [
+            "How to go about your equity investments in the New Year?",
+            "/news/business/markets/how-to-go-about-your-equity-investments-in-the-new-year-7912511.html"
+        ],
+        [
+            "The working of the Parabolic SAR and how to read trend direction and price revers",
+            ""
+        ],
+        [
+            "Is trend really your friend? Decoding the ADX indicator",
+            ""
+        ],
+        [
+            "Band Aid: Improve your trading strategy with Bollinger Bands",
+            ""
+        ],
+        [
+            "How to make a trading strategy effective through Bollinger Bands",
+            ""
+        ],
+        [
+            "Here is how the ATM Bull Put Spread works as handy bargain hunter in market corre",
+            ""
+        ],
+        [
+            "Delhi: Govt school student in hospital after classroom ceiling fan falls on her h",
+            ""
+        ],
+        [
+            "Here is how you can sharpen your trades with options open interest data",
+            ""
+        ],
+        [
+            "Here’s how to make profits via OTM Vertical Spread strategy in volatile times",
+            ""
+        ],
+        [
+            "How Ben Graham's investing principles help prepare for crash",
+            ""
+        ],
+        [
+            "How to go about your equity investments in the New Year?",
+            ""
+        ],
+        [
+            "Read 25 investor views",
+            "https://mmb.moneycontrol.com/stock-message-forum/statebankindia/comments/406?utm_source=PC_SENTI"
+        ],
+        [
+            "BUY",
+            "javascript:;"
+        ],
+        [
+            "SELL",
+            "javascript:;"
+        ],
+        [
+            "HOLD",
+            "javascript:;"
+        ],
+        [
+            "POST",
+            "javascript:void(0);"
+        ],
+        [
+            "nkhlporwal30",
+            "https://mmb.moneycontrol.com/nkhlporwal30-user-profile-4c7a707859737959344c.html"
+        ],
+        [
+            "SBI",
+            "https://mmb.moneycontrol.com/forum-topics/stocks/sbi-406.html"
+        ],
+        [
+            "Follow",
+            "javascript:void(0);"
+        ],
+        [
+            "800 tommoroow..............",
+            "https://mmb.moneycontrol.com/forum-topics/stocks/sbi/thread-message-113069084-114869084.html"
+        ],
+        [
+            "View more",
+            "https://mmb.moneycontrol.com/forum-topics/stocks/sbi/thread-message-113069084-114869084.html"
+        ],
+        [
+            "1",
+            "https://mmb.moneycontrol.com/forum-topics/stocks/sbi/thread-message-113069084-114869084.html"
+        ],
+        [
+            "nkhlporwal30",
+            "https://mmb.moneycontrol.com/nkhlporwal30-user-profile-4c7a707859737959344c.html"
+        ],
+        [
+            "Like",
+            "javascript:void(0);"
+        ],
+        [
+            "Reply",
+            "javascript:void(0);"
+        ],
+        [
+            "reply",
+            "javascript:void(0);"
+        ],
+        [
+            "Cancel",
+            "javascript:void(0);"
+        ],
+        [
+            "Share",
+            "javascript:void(0);"
+        ],
+        [
+            "276",
+            "javascript:;"
+        ],
+        [
+            "Repost",
+            "javascript:void(0);"
+        ],
+        [
+            "Repost",
+            "javascript:void(0);"
+        ],
+        [
+            "Cancel",
+            "javascript:void(0);"
+        ],
+        [
+            "amit22386",
+            "https://mmb.moneycontrol.com/amit22386-user-profile-7857554851313149746a.html"
+        ],
+        [
+            "SBI",
+            "https://mmb.moneycontrol.com/forum-topics/stocks/sbi-406.html"
+        ],
+        [
+            "Follow",
+            "javascript:void(0);"
+        ],
+        [
+            "????????????????????????????????????????very funny",
+            "https://mmb.moneycontrol.com/forum-topics/stocks/sbi/thread-message-113069084-114869311.html"
+        ],
+        [
+            "View more",
+            "https://mmb.moneycontrol.com/forum-topics/stocks/sbi/thread-message-113069084-114869311.html"
+        ],
+        [
+            "amit22386",
+            "https://mmb.moneycontrol.com/amit22386-user-profile-7857554851313149746a.html"
+        ],
+        [
+            "Like",
+            "javascript:void(0);"
+        ],
+        [
+            "Reply",
+            "javascript:void(0);"
+        ],
+        [
+            "reply",
+            "javascript:void(0);"
+        ],
+        [
+            "Cancel",
+            "javascript:void(0);"
+        ],
+        [
+            "Share",
+            "javascript:void(0);"
+        ],
+        [
+            "276",
+            "javascript:;"
+        ],
+        [
+            "Repost",
+            "javascript:void(0);"
+        ],
+        [
+            "Repost",
+            "javascript:void(0);"
+        ],
+        [
+            "Cancel",
+            "javascript:void(0);"
+        ],
+        [
+            "The Fixed Income",
+            "https://mmb.moneycontrol.com/the-fixed-income-user-profile-5973566e48536359526e.html"
+        ],
+        [
+            "Bonds",
+            "https://mmb.moneycontrol.com/forum-topics/bonds/bonds-529007.html"
+        ],
+        [
+            "Follow",
+            "javascript:void(0);"
+        ],
+        [
+            "These bonds can be bought in primary issuances or traded in the secondary market. Their listing on stock exchanges provides liquidity, allowing investors to buy and sell as needed. Invest smartly, invest in bonds - https://www.thefixedincome.com/products/government-guaranteed-bonds?utm_source=moneycontrol&utm_medium=mcforum&utm_campaign=Government+Guaranteed+bonds",
+            "https://mmb.moneycontrol.com/forum-topics/bonds/bonds/thread-message-113067093-114867093.html"
+        ],
+        [
+            "View more",
+            "https://mmb.moneycontrol.com/forum-topics/bonds/bonds/thread-message-113067093-114867093.html"
+        ],
+        [
+            "The Fixed Income",
+            "https://mmb.moneycontrol.com/the-fixed-income-user-profile-5973566e48536359526e.html"
+        ],
+        [
+            "Like",
+            "javascript:void(0);"
+        ],
+        [
+            "Reply",
+            "javascript:void(0);"
+        ],
+        [
+            "reply",
+            "javascript:void(0);"
+        ],
+        [
+            "Cancel",
+            "javascript:void(0);"
+        ],
+        [
+            "Share",
+            "javascript:void(0);"
+        ],
+        [
+            "276",
+            "javascript:;"
+        ],
+        [
+            "Repost",
+            "javascript:void(0);"
+        ],
+        [
+            "Repost",
+            "javascript:void(0);"
+        ],
+        [
+            "Cancel",
+            "javascript:void(0);"
+        ],
+        [
+            "View More",
+            "https://mmb.moneycontrol.com"
+        ],
+        [
+            "View More",
+            "https://m.moneycontrol.com/stock-message-forum//comments/406"
+        ],
+        [
+            "grievanceofficer@nw18.com",
+            "mailto:grievanceofficer@nw18.com"
+        ],
+        [
+            "Forum",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "Facebook",
+            "https://www.facebook.com/moneycontrol"
+        ],
+        [
+            "Twitter",
+            "https://twitter.com/moneycontrolcom"
+        ],
+        [
+            "Instagram",
+            "https://www.instagram.com/moneycontrolcom/"
+        ],
+        [
+            "Linkedin",
+            "https://www.linkedin.com/company/moneycontrol"
+        ],
+        [
+            "RSS",
+            "https://www.moneycontrol.com/india/newsarticle/rssfeeds/rssfeeds.php"
+        ],
+        [
+            "Portfolio",
+            "https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool"
+        ],
+        [
+            "Markets",
+            "https://www.moneycontrol.com/stocksmarketsindia/"
+        ],
+        [
+            "Loans up to ₹15 LAKHS",
+            "https://www.moneycontrolpay.com/"
+        ],
+        [
+            "Watchlist",
+            "https://www.moneycontrol.com/watchlist"
+        ],
+        [
+            "Live TV Show",
+            "https://www.moneycontrol.com/tv/"
+        ],
+        [
+            "Currencies",
+            "https://www.moneycontrol.com/markets/currencies/"
+        ],
+        [
+            "Credit CardsLifetime Free",
+            "https://www.moneycontrol.com/credit-cards"
+        ],
+        [
+            "Credit Score",
+            "https://www.moneycontrol.com/credit-score"
+        ],
+        [
+            "Finance Tracker",
+            "https://www.moneycontrol.com/account-aggregator"
+        ],
+        [
+            "Commodities",
+            "https://www.moneycontrol.com/commodity/"
+        ],
+        [
+            "Fixed Deposits",
+            "https://www.moneycontrol.com/fixed-deposit"
+        ],
+        [
+            "Fixed Income",
+            "https://www.moneycontrol.com/fixed-income/"
+        ],
+        [
+            "Personal Finance",
+            "https://www.moneycontrol.com/personal-finance/"
+        ],
+        [
+            "Mutual Fund",
+            "https://www.moneycontrol.com/mutualfundindia/"
+        ],
+        [
+            "Pre-Market",
+            "https://www.moneycontrol.com/markets/premarket/"
+        ],
+        [
+            "IPO",
+            "https://www.moneycontrol.com/ipo/"
+        ],
+        [
+            "Global Market",
+            "https://www.moneycontrol.com/markets/global-indices/"
+        ],
+        [
+            "Budget 2024",
+            "https://www.moneycontrol.com/budget/"
+        ],
+        [
+            "Elections 2024",
+            "https://www.moneycontrol.com/elections/"
+        ],
+        [
+            "Gold Rate",
+            "https://www.moneycontrol.com/news/gold-rates-today/"
+        ],
+        [
+            "BSE Sensex",
+            "https://www.moneycontrol.com/sensex/bse/sensex-live"
+        ],
+        [
+            "Forum",
+            "https://mmb.moneycontrol.com/"
+        ],
+        [
+            "MC 30",
+            "https://www.moneycontrol.com/mutual-fund/mc-30"
+        ],
+        [
+            "Business",
+            "https://www.moneycontrol.com/news/business"
+        ],
+        [
+            "Markets",
+            "https://www.moneycontrol.com/news/business/markets"
+        ],
+        [
+            "Stocks",
+            "https://www.moneycontrol.com/news/business/stocks"
+        ],
+        [
+            "Income Tax Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/income-tax-calculator"
+        ],
+        [
+            "Election Schedule 2024",
+            "https://www.moneycontrol.com/elections/assembly-election/schedule/"
+        ],
+        [
+            "India News",
+            "https://www.moneycontrol.com/news/india/"
+        ],
+        [
+            "Economy",
+            "https://www.moneycontrol.com/news/business/economy"
+        ],
+        [
+            "Mutual Funds",
+            "https://www.moneycontrol.com/news/business/mutual-funds"
+        ],
+        [
+            "Personal Finance",
+            "https://www.moneycontrol.com/news/business/personal-finance"
+        ],
+        [
+            "IPO News",
+            "https://www.moneycontrol.com/news/business/ipo"
+        ],
+        [
+            "Startups",
+            "https://www.moneycontrol.com/news/business/startups"
+        ],
+        [
+            "Stocks",
+            "https://www.moneycontrol.com/india/stockpricequote/"
+        ],
+        [
+            "A",
+            "https://www.moneycontrol.com/india/stockpricequote/A"
+        ],
+        [
+            "B",
+            "https://www.moneycontrol.com/india/stockpricequote/B"
+        ],
+        [
+            "C",
+            "https://www.moneycontrol.com/india/stockpricequote/C"
+        ],
+        [
+            "D",
+            "https://www.moneycontrol.com/india/stockpricequote/D"
+        ],
+        [
+            "E",
+            "https://www.moneycontrol.com/india/stockpricequote/E"
+        ],
+        [
+            "F",
+            "https://www.moneycontrol.com/india/stockpricequote/F"
+        ],
+        [
+            "G",
+            "https://www.moneycontrol.com/india/stockpricequote/G"
+        ],
+        [
+            "H",
+            "https://www.moneycontrol.com/india/stockpricequote/H"
+        ],
+        [
+            "I",
+            "https://www.moneycontrol.com/india/stockpricequote/I"
+        ],
+        [
+            "J",
+            "https://www.moneycontrol.com/india/stockpricequote/J"
+        ],
+        [
+            "K",
+            "https://www.moneycontrol.com/india/stockpricequote/K"
+        ],
+        [
+            "L",
+            "https://www.moneycontrol.com/india/stockpricequote/L"
+        ],
+        [
+            "M",
+            "https://www.moneycontrol.com/india/stockpricequote/M"
+        ],
+        [
+            "N",
+            "https://www.moneycontrol.com/india/stockpricequote/N"
+        ],
+        [
+            "O",
+            "https://www.moneycontrol.com/india/stockpricequote/O"
+        ],
+        [
+            "P",
+            "https://www.moneycontrol.com/india/stockpricequote/P"
+        ],
+        [
+            "Q",
+            "https://www.moneycontrol.com/india/stockpricequote/Q"
+        ],
+        [
+            "R",
+            "https://www.moneycontrol.com/india/stockpricequote/R"
+        ],
+        [
+            "S",
+            "https://www.moneycontrol.com/india/stockpricequote/S"
+        ],
+        [
+            "T",
+            "https://www.moneycontrol.com/india/stockpricequote/T"
+        ],
+        [
+            "U",
+            "https://www.moneycontrol.com/india/stockpricequote/U"
+        ],
+        [
+            "V",
+            "https://www.moneycontrol.com/india/stockpricequote/V"
+        ],
+        [
+            "W",
+            "https://www.moneycontrol.com/india/stockpricequote/W"
+        ],
+        [
+            "X",
+            "https://www.moneycontrol.com/india/stockpricequote/X"
+        ],
+        [
+            "Y",
+            "https://www.moneycontrol.com/india/stockpricequote/Y"
+        ],
+        [
+            "Z",
+            "https://www.moneycontrol.com/india/stockpricequote/Z"
+        ],
+        [
+            "Others",
+            "https://www.moneycontrol.com/india/stockpricequote/others"
+        ],
+        [
+            "A",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/A"
+        ],
+        [
+            "B",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/B"
+        ],
+        [
+            "C",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/C"
+        ],
+        [
+            "D",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/D"
+        ],
+        [
+            "E",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/E"
+        ],
+        [
+            "F",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/F"
+        ],
+        [
+            "G",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/G"
+        ],
+        [
+            "H",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/H"
+        ],
+        [
+            "I",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/I"
+        ],
+        [
+            "J",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/J"
+        ],
+        [
+            "K",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/K"
+        ],
+        [
+            "L",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/L"
+        ],
+        [
+            "M",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/M"
+        ],
+        [
+            "N",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/N"
+        ],
+        [
+            "O",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/O"
+        ],
+        [
+            "P",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/P"
+        ],
+        [
+            "Q",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/Q"
+        ],
+        [
+            "R",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/R"
+        ],
+        [
+            "S",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/S"
+        ],
+        [
+            "T",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/T"
+        ],
+        [
+            "U",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/U"
+        ],
+        [
+            "V",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/V"
+        ],
+        [
+            "W",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/W"
+        ],
+        [
+            "X",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/X"
+        ],
+        [
+            "Y",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/Y"
+        ],
+        [
+            "Z",
+            "https://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/Z"
+        ],
+        [
+            "Download from Google Play",
+            "https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3DWebAppsPage%26utm_medium%3DInstallButton"
+        ],
+        [
+            "Download from APP Store",
+            "https://itunes.apple.com/app/apple-store/id408654600?pt=433541&ct=WebAppsPage_Install&mt=8"
+        ],
+        [
+            "Download from Windows Phone",
+            "https://apps.microsoft.com/windows/en-in/app/a4555fed-7225-4159-8569-8cfac5e412e0"
+        ],
+        [
+            "Retirement Planning",
+            "https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html"
+        ],
+        [
+            "EMI Calculator",
+            "https://www.moneycontrol.com/personal-finance/tools/emi-calculator.html"
+        ],
+        [
+            "SIP Calculator",
+            "https://www.moneycontrol.com/mf/sipcalculator.php"
+        ],
+        [
+            "SIP Planner",
+            "https://www.moneycontrol.com/mf/sipplanner.php"
+        ],
+        [
+            "Crypto News",
+            "https://www.moneycontrol.com/cryptocurrency/"
+        ],
+        [
+            "Bank Holidays in India",
+            "https://www.moneycontrol.com/news/bank-holidays/"
+        ],
+        [
+            "Gold Rate Today",
+            "https://www.moneycontrol.com/news/gold-rates-today/"
+        ],
+        [
+            "Silver Rate Today",
+            "https://www.moneycontrol.com/news/silver-rates-today/"
+        ],
+        [
+            "Trending News",
+            "https://www.moneycontrol.com/news/trends/"
+        ],
+        [
+            "Startups",
+            "https://www.moneycontrol.com/news/technology-startups/"
+        ],
+        [
+            "National News",
+            "https://www.moneycontrol.com/news/"
+        ],
+        [
+            "MC Videos",
+            "https://www.moneycontrol.com/video-shows/"
+        ],
+        [
+            "MC You Tube",
+            "https://www.youtube.com/user/moneycontrol/featured"
+        ],
+        [
+            "House Purchase Index",
+            "https://www.moneycontrol.com/news/house-purchase-affordability-in-top-affordable-cities-in-india/"
+        ],
+        [
+            "Best Portfolio Manager",
+            "https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool"
+        ],
+        [
+            "Small Savings Schemes",
+            "https://www.moneycontrol.com/fixed-income/small-savings-schemes/"
+        ],
+        [
+            "Bonds",
+            "https://www.moneycontrol.com/bonds/"
+        ],
+        [
+            "TopperLearning",
+            "https://www.topperlearning.com/"
+        ],
+        [
+            "Clear Study Doubts",
+            "https://www.topperlearning.com/doubts-solutions/all-questions/"
+        ],
+        [
+            "Education Franchisee Opportunity",
+            "https://www.topperlearning.com/become-partner"
+        ],
+        [
+            "Master Your Money",
+            "https://www.moneycontrol.com/master-your-money/?utm_source=specials"
+        ],
+        [
+            "Game Changers",
+            "https://www.moneycontrol.com/gamechangers/"
+        ],
+        [
+            "Investment Watch",
+            "https://investmentwatch.moneycontrol.com/"
+        ],
+        [
+            "PowerYourTrade",
+            "https://poweryourtrade.moneycontrol.com/"
+        ],
+        [
+            "SME Step Up",
+            "https://www.moneycontrol.com/sme/"
+        ],
+        [
+            "News18",
+            "https://www.news18.com/"
+        ],
+        [
+            "Firstpost",
+            "https://www.firstpost.com/"
+        ],
+        [
+            "CNBC TV18",
+            "https://www.cnbctv18.com/"
+        ],
+        [
+            "News18 Hindi",
+            "https://hindi.news18.com/"
+        ],
+        [
+            "Cricketnext",
+            "https://www.news18.com/cricketnext/"
+        ],
+        [
+            "Overdrive",
+            "https://overdrive.in/"
+        ],
+        [
+            "Topper Learning",
+            "https://www.topperlearning.com/"
+        ],
+        [
+            "About us",
+            "https://www.moneycontrol.com/cdata/aboutus.php"
+        ],
+        [
+            "Contact Us",
+            "https://www.moneycontrol.com/cdata/contact.php"
+        ],
+        [
+            "Advisory Alert",
+            "https://www.moneycontrol.com/cdata/advisory-alert.php"
+        ],
+        [
+            "Advertise with Us",
+            "https://www.moneycontrol.com/advertise-on-moneycontrol.html"
+        ],
+        [
+            "Support",
+            "javascript:;"
+        ],
+        [
+            "Disclaimer",
+            "https://www.moneycontrol.com/cdata/disclaim.php"
+        ],
+        [
+            "Privacy Policy",
+            "https://www.moneycontrol.com/cdata/privacypolicy.php"
+        ],
+        [
+            "Cookie Policy",
+            "https://www.moneycontrol.com/cdata/gdpr_cookiepolicy.php"
+        ],
+        [
+            "Terms & Conditions",
+            "https://www.moneycontrol.com/cdata/termsofuse.php"
+        ],
+        [
+            "Careers",
+            "https://www.moneycontrol.com/career/"
+        ],
+        [
+            "Financial Terms (Glossary)",
+            "https://www.moneycontrol.com/glossary/"
+        ],
+        [
+            "FAQs",
+            "https://www.moneycontrol.com/faqs/"
+        ],
+        [
+            "Sitemap",
+            "https://www.moneycontrol.com/sitemap.php"
+        ],
+        [
+            "RSS Feed",
+            "https://www.moneycontrol.com/india/newsarticle/rssfeeds/rssfeeds.php"
+        ],
+        [
+            "Investors",
+            "https://www.moneycontrol.com/investors/"
+        ],
+        [
+            "Grab it Now",
+            "javascript:;"
+        ],
+        [
+            "Ad-Free Experience",
+            "javascript:;"
+        ],
+        [
+            "Top Articles from Financial Times",
+            "javascript:;"
+        ],
+        [
+            "Actionable Insights",
+            "javascript:;"
+        ],
+        [
+            "MC Research",
+            "javascript:;"
+        ],
+        [
+            "Economic Calendar",
+            "javascript:;"
+        ],
+        [
+            "& Many More",
+            "javascript:;"
+        ]
+    ],
+    "sentiment_score": 0.25757575757575757
+}
