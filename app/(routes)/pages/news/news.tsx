@@ -1,7 +1,6 @@
 "use client";
 import { Card, CardDescription, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem } from "@/components/ui/carousel";
-import React, { useState, useEffect } from "react";
 import article_data from "@/scraped_articles";
 
 // Define the type for the article data
