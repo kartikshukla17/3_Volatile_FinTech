@@ -19,8 +19,7 @@ export default function Home() {
         <h2 className="text-sm text-zinc-500 ">
           I'm building{" "}
           <Link
-            target="_blank"
-            href="/pages/news"
+             href="/pages/news"
             className="underline duration-500 hover:text-zinc-300"
           >
             Finace.Simplified

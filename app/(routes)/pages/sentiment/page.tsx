@@ -1,9 +1,11 @@
 import React from 'react'
 import Sentiment from './sentiment'
-const page = () => {
+import StockDashboard from './sentiment'
+
+const page = () => { 
   return (
     <div>
-        <Sentiment/>
+        <StockDashboard/>
     </div>
   )
 }
