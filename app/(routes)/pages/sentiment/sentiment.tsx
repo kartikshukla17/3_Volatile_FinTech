@@ -100,7 +100,7 @@ export default function StockDashboard() {
                   <Tooltip content={<ChartTooltipContent />} />
                   <Legend />
                   <Bar dataKey="positive" stackId="sentiment" fill="hsl(var(--primary))" />
-                  <Bar dataKey="negative" stackId="sentiment" fill="hsl(var(--destructive))" />
+                  <Bar dataKey="negative" stackId="sentiment" fill="hsl(var(--accent))" />
                 </BarChart>
               </ResponsiveContainer>
             </ChartContainer>
