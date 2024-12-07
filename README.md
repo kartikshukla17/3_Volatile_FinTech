@@ -6,7 +6,7 @@
     
 </head>
 <body>
-<p><b>CANVA LINK: </b>[https://www.canva.com/design/DAGXqyqjKZs/C4Ig7j5Rev_4kPB16cHTcA/edit](https://www.canva.com/design/DAGXqyqjKZs/C4Ig7j5Rev_4kPB16cHTcA/edit?utm_content=DAGXqyqjKZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
+<p><b>CANVA LINK: </b>(https://www.canva.com/design/DAGXqyqjKZs/C4Ig7j5Rev_4kPB16cHTcA/edit?utm_content=DAGXqyqjKZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
 
 <h1>Stock News MVP</h1>
 
