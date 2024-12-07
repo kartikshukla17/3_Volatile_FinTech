@@ -1,4 +1,5 @@
 "use client";
+
 import { Card, CardDescription, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem } from "@/components/ui/carousel";
 import article_data from "@/scraped_articles";
@@ -14,6 +15,15 @@ interface Article {
 const truncateText = (text: string, maxLength: number): string => {
   if (!text) return "";
   return text.length > maxLength ? `${text.slice(0, maxLength)}...` : text;
+};
+
+// Dot component
+const Dot: React.FC<{ color: string }> = ({ color }) => {
+  return (
+    <div
+      className={`absolute top-2 right-2 w-4 h-4 rounded-full ${color}`}
+    ></div>
+  );
 };
 
 const News: React.FC = () => {
@@ -36,7 +46,10 @@ const News: React.FC = () => {
           <CarouselContent className="flex">
             {articles.map((news, index) => (
               <CarouselItem key={index} className="flex-none w-full snap-center p-4">
-                <Card className="w-full">
+                <Card className="w-full relative">
+                  {/* Randomly display red or green dot */}
+                  <Dot color={Math.random() > 0.5 ? 'bg-red-500' : 'bg-green-500'} />
+
                   <CardHeader>
                     <CardTitle>{news.title}</CardTitle>
                     <CardDescription></CardDescription>

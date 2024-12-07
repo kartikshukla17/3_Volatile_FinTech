@@ -5,7 +5,6 @@ import { Bar, BarChart, Line, LineChart, Pie, PieChart, XAxis, YAxis, Tooltip, L
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart"
 
-
 const newsItems = [
   {
     title: "Tech Stocks Surge on AI Advancements",
@@ -24,35 +23,35 @@ const newsItems = [
   },
 ]
 
-// Fake data for stock sentiments
+// Updated stock sentiment data with Indian companies
 const stockSentimentData = [
-  { stock: "AAPL", positive: 65, negative: 35 },
-  { stock: "GOOGL", positive: 72, negative: 28 },
-  { stock: "MSFT", positive: 68, negative: 32 },
-  { stock: "AMZN", positive: 58, negative: 42 },
-  { stock: "TSLA", positive: 80, negative: 20 },
-  { stock: "FB", positive: 45, negative: 55 },
-  { stock: "NVDA", positive: 75, negative: 25 },
-  { stock: "JPM", positive: 62, negative: 38 },
+  { stock: "INFY", positive: 65, negative: 35 },
+  { stock: "TCS", positive: 72, negative: 28 },
+  { stock: "RELIANCE", positive: 68, negative: 32 },
+  { stock: "HDFC", positive: 58, negative: 42 },
+  { stock: "WIPRO", positive: 80, negative: 20 },
+  { stock: "BAJFINANCE", positive: 45, negative: 55 },
+  { stock: "ICICI", positive: 75, negative: 25 },
+  { stock: "SBI", positive: 62, negative: 38 },
 ]
 
-// Fake data for stock price trends
+// Updated stock price trend data with Indian companies
 const stockPriceTrendData = [
-  { date: "2023-01", AAPL: 130, GOOGL: 95, MSFT: 240 },
-  { date: "2023-02", AAPL: 135, GOOGL: 94, MSFT: 250 },
-  { date: "2023-03", AAPL: 140, GOOGL: 100, MSFT: 255 },
-  { date: "2023-04", AAPL: 145, GOOGL: 105, MSFT: 270 },
-  { date: "2023-05", AAPL: 150, GOOGL: 110, MSFT: 285 },
-  { date: "2023-06", AAPL: 155, GOOGL: 115, MSFT: 300 },
+  { date: "2023-01", INFY: 1500, TCS: 3200, RELIANCE: 2300 },
+  { date: "2023-02", INFY: 1550, TCS: 3250, RELIANCE: 2350 },
+  { date: "2023-03", INFY: 1600, TCS: 3300, RELIANCE: 2400 },
+  { date: "2023-04", INFY: 1650, TCS: 3350, RELIANCE: 2450 },
+  { date: "2023-05", INFY: 1700, TCS: 3400, RELIANCE: 2500 },
+  { date: "2023-06", INFY: 1750, TCS: 3450, RELIANCE: 2550 },
 ]
 
 // Fake data for sector distribution
 const sectorDistributionData = [
-  { name: "Technology", value: 35 },
-  { name: "Healthcare", value: 20 },
-  { name: "Finance", value: 15 },
-  { name: "Consumer", value: 12 },
-  { name: "Energy", value: 10 },
+  { name: "IT", value: 35 },
+  { name: "Banking", value: 20 },
+  { name: "Energy", value: 15 },
+  { name: "Finance", value: 12 },
+  { name: "Pharmaceuticals", value: 10 },
   { name: "Others", value: 8 },
 ]
 
@@ -67,169 +66,116 @@ const COLORS = [
 
 export default function StockDashboard() {
   return (
-    <div className="p-6 bg-background min-h-screen">
-      <h1 className="text-3xl font-bold mb-6 text-center">Stock Market Dashboard</h1>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4">
       <Card>
-          <CardHeader>
-            <CardTitle>Stock Sentiment Analysis</CardTitle>
-            <CardDescription>Positive and negative sentiment for popular stocks</CardDescription>
-          </CardHeader>
-          <CardContent className="p-4">
-            <ChartContainer
-              config={{
-                positive: {
-                  label: "Positive Sentiment",
-                  color: "hsl(var(--primary))",
-                },
-                negative: {
-                  label: "Negative Sentiment",
-                  color: "hsl(var(--destructive))",
-                },
-              }}
-              className="h-[300px] w-full"
-            >
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart
-                  data={stockSentimentData}
-                  layout="vertical"
-                  margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
-                >
-                  <XAxis type="number" domain={[0, 100]} />
-                  <YAxis dataKey="stock" type="category" />
-                  <Tooltip content={<ChartTooltipContent />} />
-                  <Legend />
-                  <Bar dataKey="positive" stackId="sentiment" fill="hsl(var(--primary))" />
-                  <Bar dataKey="negative" stackId="sentiment" fill="hsl(var(--accent))" />
-                </BarChart>
-              </ResponsiveContainer>
-            </ChartContainer>
-          </CardContent>
-        </Card>
-        <Card className="bg-background/50 backdrop-blur-sm">
-            <CardHeader>
-              <CardTitle>Performance Summary</CardTitle>
-              <CardDescription>Key market indicators</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <dl className="space-y-2">
-                <div className="flex justify-between">
-                  <dt>S&P 500</dt>
-                  <dd className="font-semibold text-green-600">+1.2%</dd>
-                </div>
-                <div className="flex justify-between">
-                  <dt>NASDAQ</dt>
-                  <dd className="font-semibold text-green-600">+0.8%</dd>
-                </div>
-                <div className="flex justify-between">
-                  <dt>DOW</dt>
-                  <dd className="font-semibold text-red-600">-0.3%</dd>
-                </div>
-                <div className="flex justify-between">
-                  <dt>10Y Treasury</dt>
-                  <dd className="font-semibold">3.5%</dd>
-                </div>
-              </dl>
-            </CardContent>
-          </Card>
-        <Card>
-          <CardHeader>
-            <CardTitle>Stock Price Trends</CardTitle>
-            <CardDescription>6-month price trends for selected stocks</CardDescription>
-          </CardHeader>
-          <CardContent className="p-4">
-            <ChartContainer
-              config={{
-                AAPL: {
-                  label: "Apple",
-                  color: "hsl(var(--primary))",
-                },
-                GOOGL: {
-                  label: "Google",
-                  color: "hsl(var(--secondary))",
-                },
-                MSFT: {
-                  label: "Microsoft",
-                  color: "hsl(var(--accent))",
-                },
-              }}
-              className="h-[300px] w-full"
-            >
-              <ResponsiveContainer width="100%" height="100%">
-                <LineChart
-                  data={stockPriceTrendData}
-                  margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
-                >
-                  <XAxis dataKey="date" />
-                  <YAxis />
-                  <Tooltip content={<ChartTooltipContent />} />
-                  <Legend />
-                  <Line type="monotone" dataKey="AAPL" stroke="hsl(var(--primary))" />
-                  <Line type="monotone" dataKey="GOOGL" stroke="hsl(var(--secondary))" />
-                  <Line type="monotone" dataKey="MSFT" stroke="hsl(var(--accent))" />
-                </LineChart>
-              </ResponsiveContainer>
-            </ChartContainer>
-          </CardContent>
-        </Card>
+        <CardHeader>
+          <CardTitle>Stock Sentiment Analysis</CardTitle>
+          <CardDescription>Positive and negative sentiment for popular Indian stocks</CardDescription>
+        </CardHeader>
+        <CardContent>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={stockSentimentData}>
+              <XAxis dataKey="stock" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="positive" stackId="a" fill={COLORS[0]} />
+              <Bar dataKey="negative" stackId="a" fill={COLORS[5]} />
+            </BarChart>
+          </ResponsiveContainer>
+        </CardContent>
+      </Card>
 
-        <Card>
-          <CardHeader>
-            <CardTitle>Sector Distribution</CardTitle>
-            <CardDescription>Market cap distribution by sector</CardDescription>
-          </CardHeader>
-          <CardContent className="p-4">
-            <ChartContainer
-              config={{
-                value: {
-                  label: "Market Cap",
-                  color: "hsl(var(--primary))",
-                },
-              }}
-              className="h-[300px] w-full"
-            >
-              <ResponsiveContainer width="100%" height="100%">
-                <PieChart>
-                  <Pie
-                    data={sectorDistributionData}
-                    cx="50%"
-                    cy="50%"
-                    labelLine={false}
-                    outerRadius={150}
-                    fill="#8884d8"
-                    dataKey="value"
-                    label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
-                  >
-                    {sectorDistributionData.map((entry, index) => (
-                      <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                    ))}
-                  </Pie>
-                  <Tooltip content={<ChartTooltipContent />} />
-                </PieChart>
-              </ResponsiveContainer>
-            </ChartContainer>
-          </CardContent>
-        </Card>
+      <Card>
+        <CardHeader>
+          <CardTitle>Performance Summary</CardTitle>
+          <CardDescription>Key market indicators</CardDescription>
+        </CardHeader>
+        <CardContent>
+          <div className="grid grid-cols-2 gap-4">
+            <div className="text-center">
+              <h3 className="text-lg font-semibold">NIFTY 50</h3>
+              <p className="text-green-600">+1.2%</p>
+            </div>
+            <div className="text-center">
+              <h3 className="text-lg font-semibold">SENSEX</h3>
+              <p className="text-green-600">+0.8%</p>
+            </div>
+            <div className="text-center">
+              <h3 className="text-lg font-semibold">BANK NIFTY</h3>
+              <p className="text-red-600">-0.3%</p>
+            </div>
+            <div className="text-center">
+              <h3 className="text-lg font-semibold">India VIX</h3>
+              <p>15.5</p>
+            </div>
+          </div>
+        </CardContent>
+      </Card>
 
-        <Card>
-      <CardHeader>
-        <CardTitle>Market News</CardTitle>
-        <CardDescription>Latest updates affecting the stock market</CardDescription>
-      </CardHeader>
-      <CardContent>
-        <ul className="space-y-4">
+      <Card>
+        <CardHeader>
+          <CardTitle>Stock Price Trends</CardTitle>
+          <CardDescription>6-month price trends for top Indian stocks</CardDescription>
+        </CardHeader>
+        <CardContent>
+          <ResponsiveContainer width="100%" height={300}>
+            <LineChart data={stockPriceTrendData}>
+              <XAxis dataKey="date" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Line type="monotone" dataKey="INFY" stroke={COLORS[0]} />
+              <Line type="monotone" dataKey="TCS" stroke={COLORS[1]} />
+              <Line type="monotone" dataKey="RELIANCE" stroke={COLORS[2]} />
+            </LineChart>
+          </ResponsiveContainer>
+        </CardContent>
+      </Card>
+
+      <Card>
+        <CardHeader>
+          <CardTitle>Sector Distribution</CardTitle>
+          <CardDescription>Market cap distribution by sector</CardDescription>
+        </CardHeader>
+        <CardContent>
+          <ResponsiveContainer width="100%" height={300}>
+            <PieChart>
+              <Pie 
+                data={sectorDistributionData} 
+                dataKey="value" 
+                nameKey="name" 
+                cx="50%" 
+                cy="50%" 
+                outerRadius={100}
+                label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
+                //labelStyle={{ fill: 'white', fontSize: '12px' }}
+              >
+                {sectorDistributionData.map((entry, index) => (
+                  <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                ))}
+              </Pie>
+              <Tooltip />
+            </PieChart>
+          </ResponsiveContainer>
+        </CardContent>
+      </Card>
+
+      <Card>
+        <CardHeader>
+          <CardTitle>Market News</CardTitle>
+          <CardDescription>Latest updates affecting the stock market</CardDescription>
+        </CardHeader>
+        <CardContent>
           {newsItems.map((item, index) => (
-            <li key={index} className="border-b pb-2 last:border-b-0">
+            <div key={index} className="mb-4 border-b pb-2">
               <h3 className="font-semibold">{item.title}</h3>
               <p className="text-sm text-muted-foreground">{item.description}</p>
-              <span className="text-xs text-muted-foreground">{item.date}</span>
-            </li>
+              <p className="text-xs text-muted-foreground">{item.date}</p>
+            </div>
           ))}
-        </ul>
-      </CardContent>
-    </Card>
-      </div>
+        </CardContent>
+      </Card>
     </div>
   )
 }
-
