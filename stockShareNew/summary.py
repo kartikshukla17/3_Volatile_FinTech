@@ -80,9 +80,12 @@ def save_data_to_json(data, output_file):
         json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
     print(f"Data saved to {output_file}")
 
+from textblob import TextBlob  # For sentiment analysis
+
 def summarize_with_gemini(content, max_words=100):
     """
-    Summarizes content using Google's Gemini model and limits the summary to a specific number of words.
+    Summarizes content using Google's Gemini model and analyzes sentiment.
+    Returns both the summary and sentiment classification.
     """
     try:
         # Define a well-structured prompt
@@ -107,13 +110,28 @@ def summarize_with_gemini(content, max_words=100):
             summary_words = summary.split()
             if len(summary_words) > max_words:
                 summary = " ".join(summary_words[:max_words]) + "..."
-            return summary
+
+            # Analyze sentiment using TextBlob
+            sentiment_analysis = TextBlob(content)
+            sentiment_polarity = sentiment_analysis.sentiment.polarity
+
+            # Classify sentiment based on polarity
+            if sentiment_polarity > 0.1:
+                sentiment = "Positive"
+            elif sentiment_polarity < -0.1:
+                sentiment = "Negative"
+            else:
+                sentiment = "Neutral"
+
+            # Return both summary and sentiment
+            return {"summary": summary, "sentiment": sentiment}
         else:
-            return "Summary could not be generated."
+            return {"summary": "Summary could not be generated.", "sentiment": "Unknown"}
 
     except Exception as e:
         print(f"Error generating summary with Gemini: {e}")
-        return "Error generating summary."
+        return {"summary": "Error generating summary.", "sentiment": "Unknown"}
+
 
 def scrape_content(url):
     """
@@ -139,10 +157,10 @@ def scrape_content(url):
 
 def update_json_with_summaries(json_file):
     """
-    Updates the JSON with detailed AI-generated summaries.
+    Updates the JSON with detailed AI-generated summaries and sentiment analysis.
     """
     try:
-        with open(json_file, 'r') as f:
+        with open(json_file, 'r', encoding="utf-8") as f:
             data = json.load(f)
     except FileNotFoundError:
         print(f"{json_file} not found.")
@@ -153,25 +171,27 @@ def update_json_with_summaries(json_file):
         if not link:
             print("Article missing 'link' field; skipping.")
             continue
-        
+
         content = scrape_content(link)
         if content is None:
             continue
-        
+
         print(f"Summarizing content for: {link}")
-        summary = summarize_with_gemini(content)
-        
-        # Only update summary if Gemini generated a non-empty summary
-        if summary:
-            article["summary"] = summary
+        summary_data = summarize_with_gemini(content)
+
+        # Only update if summary and sentiment are successfully generated
+        if summary_data and "summary" in summary_data and "sentiment" in summary_data:
+            article["summary"] = summary_data["summary"]
+            article["sentiment"] = summary_data["sentiment"]
 
         # Save the updated article back to the file in real-time
         try:
-            with open(json_file, 'w') as f:
-                json.dump(data, f, indent=4)
+            with open(json_file, 'w', encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=4)
             print(f"Updated article {index + 1} saved to JSON!")
         except Exception as e:
             print(f"Error saving JSON file: {e}")
+
 
 def main():
     # Files to process

@@ -1,14 +1,18 @@
 "use client";
 
+import React, { useEffect, useState } from "react";
 import { Card, CardDescription, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem } from "@/components/ui/carousel";
-import article_data from "@/scraped_articles";
 
 // Define the type for the article data
 interface Article {
   title: string;
   summary: string;
-  link: string;
+  url: string;
+  image_url?: string;
+  pub_date: string;
+  source: string;
+  topics: string[];
 }
 
 // Function to truncate text
@@ -27,10 +31,36 @@ const Dot: React.FC<{ color: string }> = ({ color }) => {
 };
 
 const News: React.FC = () => {
-  // Ensure article_data is typed as an array of Article objects
-  const articles: Article[] = Array.isArray(article_data) ? article_data : [];
+  const [articles, setArticles] = useState<Article[]>([]);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
 
-  // Fallback if data is empty or not an array
+  useEffect(() => {
+    const fetchArticles = async () => {
+      try {
+        const response = await fetch('https://stock.indianapi.in/news', {
+          headers: {
+            'X-Api-Key': 'sk-live-LZEtIC1wPrfhIoJsH474wDa0sXtVlCXbK5BIFCAp'
+          }
+        })
+        if (!response.ok) {
+          throw new Error("Failed to fetch articles");
+        }
+        const data: Article[] = await response.json();
+        setArticles(data);
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchArticles();
+  }, []);
+
+  if (loading) return <p>Loading...</p>;
+  if (error) return <p>Error: {error}</p>;
+
   if (articles.length === 0) {
     return <p>No articles available.</p>;
   }
@@ -48,18 +78,18 @@ const News: React.FC = () => {
               <CarouselItem key={index} className="flex-none w-full snap-center p-4">
                 <Card className="w-full relative">
                   {/* Randomly display red or green dot */}
-                  <Dot color={Math.random() > 0.5 ? 'bg-red-500' : 'bg-green-500'} />
+                  <Dot color={Math.random() > 0.5 ? "bg-red-500" : "bg-green-500"} />
 
                   <CardHeader>
                     <CardTitle>{news.title}</CardTitle>
-                    <CardDescription></CardDescription>
+                    <CardDescription>{news.source}</CardDescription>
                   </CardHeader>
                   <CardContent>
-                    <p>{truncateText(news.summary, 1000)}</p>
+                    <p>{truncateText(news.summary, 500)}</p>
                   </CardContent>
                   <CardFooter>
                     <a
-                      href={news.link}
+                      href={news.url}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-500 hover:underline"

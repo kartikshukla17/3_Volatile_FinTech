@@ -16,7 +16,7 @@ export default function Home() {
           transition={{ duration: 0.5 }}
         >
           <h1 className="text-6xl sm:text-7xl md:text-8xl font-bold text-white mb-4">
-            stocker
+            fInsight
           </h1>
           <p className="text-lg sm:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Simplify Your Financial Journey
@@ -34,7 +34,7 @@ export default function Home() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          <div className="flex flex-wrap justify-center gap-12">
+          {/* <div className="flex flex-wrap justify-center gap-12">
             {[
               { icon: TrendingUp, title: "Market Insights", color: "from-blue-600 to-blue-400" },
               { icon: BarChart2, title: "Portfolio Tracking", color: "from-green-600 to-green-400" },
@@ -47,7 +47,7 @@ export default function Home() {
                 <h2 className="text-sm font-medium text-gray-300 group-hover:text-white transition-colors duration-300">{feature.title}</h2>
               </div>
             ))}
-          </div>
+          </div> */}
         </motion.div>
       </main>
     </div>
